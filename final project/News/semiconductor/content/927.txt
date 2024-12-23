@@ -1,0 +1,1 @@
+EPC launches 100V eGaN FET-based 3-phase BLDC motor drive inverter reference design 

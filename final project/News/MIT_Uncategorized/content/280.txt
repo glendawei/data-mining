@@ -1,0 +1,45 @@
+Harnessing hydrogen’s potential to address long-haul trucking emissions  
+ The transportation of goods forms the basis of today’s globally distributed supply chains, and long-haul trucking is a central and critical link in this complex system. To meet climate goals around the world, it is necessary to develop decarbonized solutions to replace diesel powertrains, but given trucking’s indispensable and vast role, these solutions must be both economically viable and practical to implement. While hydrogen-based options, as an alternative to diesel, have the potential to become a promising decarbonization strategy, hydrogen has significant limitations when it comes to delivery and refueling.
+These roadblocks, combined with hydrogen’s compelling decarbonization potential, are what motivated a team of MIT researchers led by William H. Green, the Hoyt Hottel Professor in Chemical Engineering, to explore a cost-effective way to transport and store hydrogen using liquid organic hydrogen carriers (LOHCs). The team is developing a disruptive technology that allows LOHCs to not only deliver the hydrogen to the trucks, but also store the hydrogen onboard.
+Their findings were recently published in Energy and Fuels, a peer-reviewed journal of the American Chemical Society, in a paper titled “Perspective on Decarbonizing Long-Haul Trucks Using Onboard Dehydrogenation of Liquid Organic Hydrogen Carriers.” The MIT team is led by Green, and includes graduate students Sayandeep Biswas and Kariana Moreno Sader. Their research is supported by the MIT Climate and Sustainability Consortium (MCSC) through its Seed Awards program and MathWorks, and ties into the work within the MCSC’s Tough Transportation Modes focus area.An “onboard” approach
+Currently, LOHCs, which work within existing retail fuel distribution infrastructure, are used to deliver hydrogen gas to refueling stations, where it is then compressed and delivered onto trucks equipped with hydrogen fuel cell or combustion engines.
+“This current approach incurs significant energy loss due to endothermic hydrogen release and compression at the retail station” says Green. “To address this, our work is exploring a more efficient application, with LOHC-powered trucks featuring onboard dehydrogenation.”
+To implement such a design, the team aims to modify the truck’s powertrain (the system inside a vehicle that produces the energy to propel it forward) to allow onboard hydrogen release from the LOHCs, using waste heat from the engine exhaust to power the “dehydrogenation” process.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The dehydrogenation process happens within a high-temperature reactor, which continually receives hydrogen-rich LOHCs from the fuel storage tank. Hydrogen released from the reactor is fed to the engine, after passing through a separator to remove any lingering LOHC. On its way to the engine, some of the hydrogen gets diverted to a burner to heat the reactor, which helps to augment the reactor heating provided by the engine exhaust gases.Acknowledging and addressing hydrogen’s drawbacks
+The team’s paper underscores that current uses of hydrogen, including LOHC systems, to decarbonize the trucking sector have drawbacks. Regardless of technical improvements, these existing options remain prohibitively expensive due to the high cost of retail hydrogen delivery.
+“We present an alternative option that addresses a lot of the challenges and seems to be a viable way in which hydrogen can be used in this transportation context,” says Biswas, who was recently elected to the MIT Martin Family Society of Fellows for Sustainability for his work in this area. “Hydrogen, when used through LOHCs, has clear benefits for long-hauling, such as scalability and fast refueling time. There is also an enormous potential to improve delivery and refueling to further reduce cost, and our system is working to do that.”
+“Utilizing hydrogen is an option that is globally accessible, and could be extended to countries like the one where I am from,” says Moreno Sader, who is originally from Colombia. “Since it synergizes with existing infrastructure, large upfront investments are not necessary. The global applicability is huge.”
+Moreno Sader is a MathWorks Fellow, and, along with the rest of the team, has been using MATLAB tools to develop models and simulations for this work.Different sectors coming together
+Decarbonizing transportation modes, including long-haul trucking, requires expertise and perspectives from different industries — an approach that resonates with the MCSC’s mission.
+The team’s groundbreaking research into LOHC-powered trucking is among several projects supported by the MCSC within its Tough Transportation Modes focus area, led by postdoc Impact Fellow Danika MacDonell. The MCSC-supported projects were chosen to tackle a complementary set of societally important and industry-relevant challenges to decarbonizing heavy-duty transportation, which span a range of sectors and solution pathways. Other projects focus, for example, on logistics optimization for electrified trucking fleets, or air quality and climate impacts of ammonia-powered shipping.
+The MCSC works to support and amplify the impact of these projects by engaging the research teams with industry partners from a variety of sectors. In addition, the MCSC pursues a collective multisectoral approach to decarbonizing transportation by facilitating shared learning across the different projects through regular cross-team discussion.
+The research led by Green celebrates this cross-sector theme by integrating industry-leading computing tools provided by MathWorks with cutting-edge developments in chemical engineering, as well as industry-leading commercial LOHC reactor demonstrations, to build a compelling vision for cost-effective LOHC-powered trucking.
+The review and research conducted in the Energy and Fuels article lays the groundwork for further investigations into LOHC-powered truck design. The development of such a vehicle — with a power-dense, efficient, and robust onboard hydrogen release system — requires dedicated investigations and further optimization of core components geared specifically toward the trucking application. 

@@ -1,0 +1,21 @@
+Securing the ‘Edge Ecosystem’: The Changing Cybersecurity Landscape AT&T Cybersecurity has released the 2023 AT&T Cybersecurity Insights Report: Focus on Manufacturing, which provides insights into various aspects of edge computing. In the past, cybersecurity mainly concerned Information Technology (IT) systems, but the rise of edge computing, which is still an emerging technology, has changed the cybersecurity landscape. Systems supporting industrial process control and manufacturing automation are increasingly run on the edge and require their own security strategies.
+
+AT&T Cybersecurity has released the 2023 AT&T Cybersecurity Insights Report: Focus on Manufacturing, which provides insights into various aspects of edge computing, namely the challenges of securing the edge ecosystem. It was pulled from the larger report, the 2023 AT&T Cybersecurity Insights Report: Edge Ecosystem.
+
+The research for the Focus on Manufacturing report was conducted in July and August 2022. It boasts survey responses from 1,418 security, IT, application development and business professionals around the world. Securing the edge ecosystem is “non-linear, dynamic and unconventional,” according to the report. Edge computing is software defined and data-driven and has distributed configuration.
+
+Survey respondents highlighted several main means they’ve established to achieve ecosystem security: proactively investing in strategy, planning and application of use cases, involving all the necessary personnel across disciplines to ensure safety and success, and implementing forward-thinking strategies that leave room for the unexpected. With those goals in mind, the 2023 AT&T Cybersecurity Insights Report detailed the best practices for manufacturing edge computing security.
+
+Break down silos
+Organizations often have network, application development, cybersecurity and IT operations separated into silos, which can make it more difficult to protect the ecosystem across the board. “Technology decisions should not be made in isolation but instead through collaboration with line-of-business partners,” according to the report.
+
+Create an investment strategy
+Organizations need to consider security as an integral part of each use case in development and allocate the proper funds to bring it to life.
+
+Reach out to external edge computing experts
+Once a company has broken down silos within the company to focus on securing the ecosystem together, it’s time to decide which outside edge computing experts to involve. “Involving outside SMEs in edge computing can help prevent costly mistakes and accelerate deployment,” the report says.
+
+Prepare for the unexpected
+Remember: a failure to plan is a plan to fail. Try to identify things that could go wrong or unexpected challenges that could pop up. “Take the time to ideate on various ‘what-if’ scenarios and anticipate potential challenges,” the report says.
+
+“Successful edge computing implementations in the manufacturing industry require a holistic approach encompassing collaboration, compliance, resilience and adaptability,” Theresa Lanowitz writes in a press release announcing the report. “By considering these factors and proactively engaging with the expertise available, manufacturing will continue to unlock the potential of edge computing to deliver improved operational efficiency, allowing the industry to focus on innovation rather than operations.” 

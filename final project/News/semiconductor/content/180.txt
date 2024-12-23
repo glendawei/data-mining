@@ -1,0 +1,34 @@
+
+        The First High-Yield, Sub-Penny Plastic Processor
+     It took a major redesign for cheap flexible chips to reach their promise 
+	For decades, hopeful techies have been promising a world where absolutely every object you encounter—bandages, bottles, bananas—will have some kind of smarts thanks to supercheap programmable plastic processors. If you’ve been wondering why that hasn’t happened yet, it’s that nobody has built working processors that can be made in the billions for less than a penny each.
+ 
+	It hasn’t been for want of trying; in 2021 Arm reproduced its simplest 32-bit microcontroller, the M0, in plastic, but even this couldn’t hope to meet the mark. The problem, according to engineers at the University of Illinois Urbana-Champaign and at British flexible-electronics manufacture PragmatIC Semiconductor, is that even the simplest industry-standard microcontrollers are too complex to make on plastic in bulk.
+ 
+	In research to be presented at the International Symposium on Computer Architecture later this month, the transatlantic team presents a simple yet fully functional plastic processor that could be made at sub-penny prices. The Illinois team designed 4-bit and 8-bit processors specifically to minimize size and maximize the percentage of working integrated circuits produced. Eighty-one percent of the 4-bit version worked, and that’s a good enough yield, says team leader Rakesh Kumar, to breach the one-penny barrier.
+ 
+	“Flexible electronics has been niche for decades,” says Kumar. He adds that this yield study shows “that they may be ready for the mainstream.”
+ 
+	The processors his team built were made using the flexible thin-film semiconductor indium gallium zinc oxide (IGZO), which can be built on plastic and continues to work even when bent around a radius of millimeters. But while a reliable manufacturing process is a prerequisite, it was the design that made the difference.
+ 
+            
+                Why Not Silicon?
+            
+            
+        You might be wondering why silicon processors can’t do the job of supercheap flexible computing. Kumar’s analysis suggest it won’t work. Compared to plastic, silicon is expensive and inflexible, but if you make the chip small enough, the plastic can just bend around it. However, silicon fails at the task for two reasons: One is that although the area of circuitry could be made supersmall, you still need to leave a comparatively large amount of space around the edges so that the chip can be cut out of the wafer. In the case of a microcontroller as simple as the Flexicore, there would be more space around the edge than there is area containing circuitry. What’s more, you’ll need still more room to fit enough I/O pads so data and power can get to the chip. Suddenly, you’ve got a large area of costly blank silicon, pushing up expenses past the critical US $0.01 mark. You might be wondering why silicon processors can’t do the job of supercheap flexible computing. Kumar’s analysis suggest it won’t work. Compared to plastic, silicon is expensive and inflexible, but if you make the chip small enough, the plastic can just bend around it. However, silicon fails at the task for two reasons: One is that although the area of circuitry could be made supersmall, you still need to leave a comparatively large amount of space around the edges so that the chip can be cut out of the wafer. In the case of a microcontroller as simple as the Flexicore, there would be more space around the edge than there is area containing circuitry. What’s more, you’ll need still more room to fit enough I/O pads so data and power can get to the chip. Suddenly, you’ve got a large area of costly blank silicon, pushing up expenses past the critical US $0.01 mark. 
+	Instead of adapting an existing microcontroller architecture to plastic, Kumar’s team started from scratch to create a design called Flexicore. “Yield goes down very quickly as you increase gate count,” says Kumar. Knowing that, they came up with a design meant to minimize the number of gates needed. Using 4-bit and 8-bit logic instead of 16-bit or 32-bit helped. As did separating the memory that stores instructions from the memory that stores data. But they also cut down on the number and complexity of the instructions the processor is capable of executing.
+ 
+	The team further simplified, by designing the processor so it executes an instruction in a single clock cycle instead of the multistep pipelines of today’s CPUs. Then they designed logic that implements those instructions by reusing parts, further reducing the gate count. “In general, we were able to simplify the design of FlexiCores by tailoring them to the needs of flexible applications, which tend to be computationally simple,” says Nathaniel Bleier, Kumar’s student.
+ 
+	All of this resulted in a 5.6-square-millimeter 4-bit FlexiCore made up of just 2,104 semiconductor devices (about the same as the number of transistors in an Intel 4004 from 1971) versus some 56,340 devices for PlasticARM. “It’s an order of magnitude less than the tiniest silicon microcontrollers in terms of gate count,” he says. The team also developed an 8-bit version of FlexiCore, but it did not yield as well.
+ 
+	“This is exactly the kind of design innovation needed to support truly ubiquitous electronics,” says Scott White, CEO of PragmatIC Semiconductor.
+ 
+	With PragmatIC, the Illinois team produced plastic-coated wafers full of 4-bit and 8-bit processors and tested them at a variety of voltages on multiple programs and bent them without mercy. The experiment seems basic, but according to Kumar, it’s groundbreaking. Most research processors built using nonsilicon technologies yield so poorly that results are reported from one or at best a few working chips. “This is the first work, to the best of our knowledge, where anyone reported data from multiple chips for any nonsilicon technology,” he says.
+ 
+	Not satisfied with this success, Kumar’s team came up with a design tool to explore architectural optimizations for different applications. For example, the tool showed that power consumption could be reduced considerably by allowing the gate count to inch up a bit.
+ 
+	The chip industry has been targeted toward “the metrics of power and performance and to some degree reliability,” observed Kumar. “We haven’t focused on cost, conformality, and thinness. Focusing on those allows us to build new computer architectures and target new applications.”
+ 
+	Flexible electronics pioneer John A. Rogers, at Northwestern University, called the work “very impressive.” He looks forward to experimental studies of the effects of bending on circuit performance.
+ This article appears in the August 2022 print issue as “Sub-Penny Plastic Processors.” 

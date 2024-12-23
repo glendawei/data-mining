@@ -1,0 +1,1 @@
+Reliable 0.25μm GaN HEMTs for X-band applications US-based Wolfspeed has reported improved  reliability, voltage rating, and output power of 0.25μm-gate gallium nitride (GaN) high-electron-mobility  transistors (HEMTs) from implementing a sunken source-connected field-plate  (FP) [Kyle M. Bothe et al, IEEE Electron Device Letters, published online 24  January 2022]. 

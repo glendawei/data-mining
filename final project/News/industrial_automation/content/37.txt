@@ -1,0 +1,30 @@
+NGen opens up funding opportunities for new AI for Manufacturing projects Next Generation Manufacturing Canada (NGen) has announced $19 million in Global Innovation Cluster funding for 12 new AI for manufacturing projects valued at a total of $55 million. NGen’s AI for Manufacturing Challenge was designed to build advanced manufacturing capacity and enhance the commercialization of artificial intelligence and machine learning innovations across manufacturing sectors in Canada. The Government of Canada’s Pan-Canadian AI Strategy Commercialization program provides the AI4M funding. NGen shares in a press statement that it is intended to support the development and scale-up of solutions involving artificial intelligence and machine learning as well as the steps required by manufacturers for their successful implementation. The program aims to enhance the competitiveness of Canadian manufacturers, enable the development of new commercial opportunities for AI solution providers and manufacturers alike, develop a diverse and inclusive workforce highly skilled in AI applications in manufacturing and contribute to environmental sustainability, supply chain resilience and the health and safety of Canadians. The following project consortia represent the cohort of successful applicants to NGen’s AI4M program: Next Generation Factory Acceptance Test
+Ballard Power Systems Inc. (Burnaby, BC)
+Acerta Analytics Solutions Inc. (Kitchener, ON) AI/Machine Vision Quality Control
+Keirton Inc. (Surrey, BC)
+Organigram Inc. (Moncton, NB) Smart, Connected and Collaborative Canadian Robotic Framework
+Kinova Inc. (Boisbrand, QC)
+Labforge Inc. (Waterloo, ON)
+Inertia Manufacturing (Toronto, ON)
+Linamar Corporation (Guelph, ON) High Speed AI Powered 3D Inspection
+Apera AI Inc. (Vancouver, BC)
+Stronach Centre for Innovation – Magna International (Aurora, ON) A Flexible, Scalable AI Manufacturing Quality System 
+Lantern Machinery Analytics Inc. (Vancouver, BC)
+e-Zinc Inc. (Toronto, ON) AI-Enabled Autonomous Manufacturing Equipment
+Linamar Corporation (Guelph, ON)
+Cyberworks Robotics (Oro-Medonte, ON) Digital Manufacturing Production AI Engine
+Mosaic Manufacturing (Toronto, ON)
+AI-Innovative Solutions Inc. (Burlington, ON)
+Matter and Form (Toronto, ON) Using AI to Fast-Track Electrochemical Technology Developments
+Ayrtron Energy (Calgary, AB)
+Pulsenics Inc. (Toronto, ON) AI-Driven Digital Twins to Accelerate and Enhance Life Sciences Manufacturing
+Basetwo Artificial Intelligence Inc. (Mississauga, ON)
+Genecis Bioindustries Inc. (Scarborough, ON) AI in Manufacturing for the World’s First Digital Gynecology Platform
+Cosm Medical Corp. (Toronto, ON)
+SiteRocket Labs (Toronto, ON)
+Hamilton Health Sciences Corporation (Hamilton, ON)
+Objex Unlimited Inc. (Etobicoke, ON) Enhanced AI Traceability for Manufacturing 
+Linamar Corporation (Guelph, ON)
+Acerta Analytics Solutions Inc. (Kitchener, ON) AI-Enabled Robotic Solution for Building Component Prefabrication
+Promise Robotics Inc. (Toronto, ON)
+Landmark Group of Companies Inc. (Edmonton, AB) As NGen launches AI4M projects, the cluster is simultaneously seeking project applications to its Quantum Advantage program in support of Canada’s National Quantum Strategy. Applications may access the NGen website for more information and the intake form. 

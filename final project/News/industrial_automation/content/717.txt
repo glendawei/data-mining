@@ -1,0 +1,37 @@
+Emerson Delivers Software-Defined DeltaV Automation Strategy Emerson presented its annual DeltaV Roadmap and latest technology releases with a focus on a more modular and flexible software-defined automation platform. “DeltaV is now an automation platform,” declared speakers at the Emerson Exchange Immerse event held in Anaheim, Calif. in October.
+
+DeltaV as a brand is expanding across the broader portfolio of technologies within Emerson, said Sean Saul, Emerson’s vice president of DeltaV Marketing and Sesh Natarajan, director of product marketing. It’s inclusive of the distributed control and safety system technologies, but it also includes supervisory control and data acquisition (SCADA) and operations management software.
+
+The company presented its DeltaV Roadmap, highlighted Emerson’s technology advances and provided glimpses into where the technology is heading.
+
+“Investments are being made in a more consistent experience across the technologies and the DeltaV platform through vehicles like our Guardian customer portal, which will provide real-time health and insight as well as support best practices,” said Saul.
+
+The expansion of the DeltaV brand is “aligned with Emerson’s overall strategy related to boundless automation, which is a simplified architecture,” said Saul. “It’s a flatter, more software-defined approach of combining connecting information from the intelligent field, managing that data in either edge or cloud environments, and also being able to implement that contextualized data to be able to drive business outcomes.”
+
+According to Saul, during that week in October, Emerson launched the next-generation DeltaV node, Emerson’s DeltaV Edge Environment. “We think it has an opportunity to completely transform how you manage and maintain operational technology [OT] as well as control system applications,” he explained. Last year (2022), Emerson announced its roadmap for moving toward a software-defined architecture. This year, the company announced its DeltaV Version 15 Feature Pack 1 and the DeltaV Edge Environment. “It’s the largest release of functionality at any given time since we’ve transitioned to the feature pack strategy,” said Saul.
+
+“In Version 14, we changed the release strategy associated with DeltaV to have a three-year long-term support [LTS] release and three feature packs associated with that long-term support release. The strategy around this release cadence is focused on delivering predictable stable releases for you where that long-term support release is that ideal landing spot for upgrades,” he said.
+
+The focus of the new release is modular and flexible architecture. “No longer will you need the hardware dedicated dongle for licensing DeltaV technologies,” explained Saul. “As of today (Oct. 3, 2023), whether you’re a Guardian support customer or not, you can generate a license key and download that license capability directly from the Guardian portal and that’ll eliminate some of the reliance that you have on those hard-coded dongles as well as allowing you to have instantaneous access to the licensed DeltaV software that you already purchased.”
+
+Saul said that another focus area is aligning with its customers’ sustainability programs. “It’s well documented, the impact that DeltaV and AspenTech technologies can have in improving the throughput or energy efficiency that you have in your overall operations,” he said. “As we look to product design and in some cases redesign, we’re trying to exhaust all opportunities to find ways that we can minimize the footprint of our overall solutions.” “When we looked at the investments that we wanted to make for DeltaV Version 15, Feature Pack 1,” continued Saul, “a key element of that was having more seamless data connectivity. An example of that is our native Profinet integration on the PK Flex Controller (Figure 1). In addition, with that integration for Profinet on the PK Controller, we’re also able to support the current generation of advanced physical layer [APL] device networks as well. In addition, we integrated a Control Studio enhancement as a part of the Version 15, Feature Pack 1 release and we’re actively working on additional enhancements for version control application for the Version 15 Feature Pack 2 release.
+
+
+
+Figure 1: The PK Flex Controller is Emerson’s software defined controller.
+
+
+Saul said that the PK Flex is Emerson’s first release of a software-defined control solution. “We have a phased approach of how we’ll roll out future enhancements to it,” he explained. “We think that a software-defined control will deliver the types of benefits that you’re accustomed to related to your distributed control system [DCS] with centralized management of control functions and orchestration of those controller workloads.” Emerson also announced the release of its DeltaV IO.Connect portfolio. “Our customers can now modernize their Honeywell TDC 3000 systems without ripping and replacing everything,” explained Natarajan. “You can keep your I/O [input/output] in place and modernize it to a more fully supported control system automation system like DeltaV. We’ve embedded artificial intelligence [AI] to create the I/O and data mapping so it saves time when you import your configuration into DeltaV with the IO.Connect (Figure 2). The benefits are that it takes a less time to modernize your plant and lower cost of modernization.”
+
+
+
+Figure 2: DeltaV IO.Connect uses AI to convert existing non-Emerson DCS code to DeltaV code.
+
+
+Natarajan that another key part of Emerson’s flexible architecture, is the newest hyperconverged infrastructure (HCI)-based virtualization option.
+
+“We see more of our customers adopting virtualization, whether it’s for online production or testing and development systems,” he said. “You have less hardware to set up and maintain and you get the same flexible configuration ability and high availability system expansion capabilities.
+
+With HCI, the networking, the compute, and the storage elements are integrated using a software-defined architecture, so in a really smaller footprint it allows our customers to operate your workstations, your control logic strategies, testing development, and at the same time deliver increased performance.”
+
+The company’s next event will be Emerson Exchange EMEA held Feb. 27-29. The next Emerson Exchange Americas is planned for Spring 2025. 

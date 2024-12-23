@@ -1,0 +1,29 @@
+
+        Spintronic Transistor Tech in a Vortex Beam
+     Lasers inch stable patterns of spins closer to memory and computing 
+	For decades, scientists have explored spintronics, which manipulate electron spin to theoretically operate more quickly and burn less energy than conventional electronics. Now researchers find that lasers can generate stable patterns of electron spins in a thin layer of semiconductor material, a discovery that may help lead to advanced spin-based memory and computing, a new study finds.
+ 
+	One can imagine the spin of an electron with its axis of rotation pointing up or down in a manner analogous to a compass needle that points north or south. Just as the presence or absence of an electric charge can represent a bit equaling 1 or 0, a spin pointing up or down can do so too.
+ 
+	Flipping a spin to change a bit requires much less time and energy than moving charge. This means spintronic devices theoretically use much less power than their conventional electronic counterparts. In addition, they can also keep their data even when they are switched off. Spin is already being used in memory devices such as magnetoresistive RAM (MRAM).
+ 
+	The spins of electrons in a material can be aligned by magnetic fields or light. Now scientists in Japan reveal that lasers could generate complex stable patterns of electron spins called “spin textures” in thin films of semiconductors. These spin textures could help lead to what may be the holy grail of spintronics, a superefficient spin-based transistor.
+ 
+	The new findings are based on how light has momentum, just as a physical object moving through space does, even though light does not have mass. This means that light shining on an object can exert a force. Whereas the linear momentum of light supplies a push in the direction that light is moving, the angular momentum of light applies torque.
+  Researchers from Japan used laser light to generate a so-called vector vortex beam [left] for generating spatially structured spin states in a semiconductor quantum well [right]. This is achieved by imprinting the vortex beam’s structure onto the electron spins. Jun Ishihara/TUS, Japan 
+	A ray of light can possess two different kinds of angular momentum. The spin angular momentum of a beam of light can make objects it shines on rotate in place, whereas its orbital angular momentum can make objects rotate around the center of the ray.
+ 
+	A beam of light that carries just spin angular momentum is circularly polarized. This means the way in which its electric and magnetic fields ripple through space rotates along the axis of the ray much like threads on a screw.
+ 
+	In contrast, a beam of light that carries just orbital angular momentum resembles a vortex, moving through space with a spiraling pattern like a corkscrew. Whereas a conventional light beam is brightest at its center, vortex beams have ringlike shapes that are dark in the center, due to how some of the waves making up vortex beams can interfere with one another.
+ 
+	In the new study, researchers experimented with laser beams that simultaneously carry both spin and orbital angular momentum. In these “vector vortex beams,” the electric and magnetic fields vary in a rotating manner around each beam’s dark center.
+ 
+	The scientists found that vector vortex beams could imprint a persistent helix-shaped spin texture within gallium arsenide quantum wells 20 nanometers deep. The vector vortex beams could generate spin textures in roughly 10 picoseconds, about 10 times as fast as conventional lasers.
+ 
+	A potentially extraordinarily useful property of vortex beams is that they do not interfere with each other if they all possess different twisting patterns. In telecommunications, this fact may let a theoretically infinite number of vortex beams get overlaid on top of each other to carry an unlimited number of data streams at the same time. This multiplexing capability may also prove useful when it comes to spintronics, says study lead author Jun Ishihara, a physicist at Tohoku University in Japan.
+ 
+	These preliminary experiments were conducted at -266.15 °C, Ishihara cautions. Moving forward, “the key obstacle foreseen is how to achieve room-temperature operation,” he says.
+ 
+	Ishihara and his colleagues detailed their findings 24 March in the journal Physical Review Letters.
+ 

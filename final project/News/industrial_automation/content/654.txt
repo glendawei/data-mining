@@ -1,0 +1,81 @@
+How Primary Lithium Batteries Can Achieve Ultra Long Life To avoid costly replacement, the ideal battery will last as long as the device. This feature originally appeared in AUTOMATION 2023: IIoT & Industry 4.0. Choosing the right battery is essential for situations where ongoing maintenance and replacement costs of failing batteries would be prohibitively expensive or impossible.
+
+Primary batteries are used in standalone applications that do not draw enough current to warrant recharging. These are mainly low-power devices that draw average current measurable in micro-amps with pulses in the multi-amp range. Rechargeable Lithium-ion (Li-ion) batteries are used in low-power applications that draw average current measurable in milliamps with pulses in the multi-amp range.
+
+Choosing a primary battery is far more challenging for devices being deployed in remote off-grid locations that are subject to extreme temperatures, which can impact battery performance. These applications include asset tracking, safety systems, tank level and flow measuring, environmental monitoring, machine-to-machine (M2M), artificial intelligence (AI) and wireless mesh networks, to name a few.
+
+Numerous primary battery chemistries are available for low-power devices (Table 1), the least expensive of which is the ubiquitous alkaline cell, which delivers high rates of continuous current with a very high self-discharge rate (up to 60% per year), making them unreliable for long-term deployments. Alkaline cells also suffer from very low capacity and low energy density, resulting in added size and bulk. Additionally, alkaline cells cannot survive extreme temperatures due to their water-based chemistry. Primary Cell LiSOCL2
+			 
+Bobbin-type with hybrid layer capacitor LiSOCL2
+			 
+Bobbin-type Li metal oxide
+			 
+Modified for high capacity Li metal oxide
+			 
+Modified for high power LiFeS2
+			 
+Lithium iron disulfate
+			 
+(AA-size) LiMnO2
+			 
+Lithium manganese oxide Energy Density (Wh/Kg) 700 730 370 185 335 330 Power Very high Low Very high Very high High Moderate Voltage 3.6 to 3.9 V 3.6 V 4.1 V 4.1 V 1.5 V 3.0 V Pulse Amplitude Excellent Small High Very high Moderate Moderate Passivation None High Very low None Fair Moderate Performance at Elevated Temp. Excellent Fair Excellent Excellent Moderate Fair Performance at Excellent Fair Moderate Excellent Moderate Poor Low Temp. Operating life Excellent Excellent Excellent Excellent Moderate Fair Self-Discharge Rate Very low Very low Very low Very low Moderate High Operating Temp. -55°C to 85°C, can be extended to 105°C for a short time -80°C to 125°C -45°C to 85°C -45°C to 85°C -20°C to 60°C 0°C to 60°C Table 1: Bobbin-type LiSOCl2 batteries are preferred for use in remote wireless applications. These cells deliver higher capacity and energy density, up to a 40-year operating life and the widest possible temperature range, which is ideal for hard-to-access locations and extreme environments. Lithium-based chemistries are far better suited for industrial applications. As the lightest non-gaseous metal, lithium features an intrinsic negative potential that exceeds all other metals, delivering the highest specific energy (energy per unit weight), highest energy density (energy per unit volume) and higher voltage (OCV) ranging from 2.7 to 3.6 V. Lithium cells are also non-aqueous, making them less prone to freezing than alkaline cells.
+
+
+
+Figure 1: Bobbin-type LiSOCl2 batteries are preferred for remote wireless applications, delivering high energy density, up to 40-year service life, and the widest possible temperature range, making them ideal for use in inaccessible locations and extreme environments.
+
+
+Remote wireless devices are predominantly powered by bobbin-type lithium thionyl chloride (LiSOCl2) batteries, which are unmatched in their ultra-long-life potential of up to 40 years for certain cells. Bobbin-type LiSOCl2 cells (Figure 1) deliver the highest capacity, highest energy density and widest temperature range of all (-80°C to +125°C). They also feature a self-discharge rate as low as 0.7% per year, enabling certain cells to last up to 40 years. The benefits of bobbin-type LiSOCl2 chemistry include: Alternatively, LiSOCl2 batteries can be manufactured with a spiral wound design, which raises their potential energy flow, but also results in a higher rate of self-discharge to shorten operating and storage life.
+
+A key variable in determining a battery’s potential lifespan is storage capacity, which is measured in amp-hours (Ah). The overall storage capacity of a cell dictates the maximum run time based on the average current being drawn. For example, a device consuming 1 mA of average current with a storage capacity of 1,200 mAh can have a maximum run time of 1,200 hours. Long-term battery performance is heavily influenced by temperature extremes during storage and deployment. A battery used indoors under ambient temperatures will naturally outlast a cell that is continually exposed to extreme temperatures that affect the cell’s electrochemistry to reduce its long-term performance.
+
+Self-discharge results from internal chemical reactions that occur even when there is no connection between the electrodes or to any external circuit. As a result, remote wireless devices often lose more energy each year to self-discharge than is required to operate the device.
+
+The self-discharge rate can vary based on a number of variables, including the peak current, the consumption profile, the temperature range, the age of the cell, the leakage current drawn by components within the device and more.
+
+Moderately low temperatures can have a positive effect on reducing the rate of annual self-discharge as electrochemical and diffusion reactions slow down and the electrolyte viscosity rises. Low temperatures also tend to reduce energy flow and cause a drop in voltage. Conversely, prolonged expose to high temperatures can accelerate the self-discharge rate, cause voltage delays and drops, power delays during pulses and depletion of the electrochemical elements.
+
+Lithium thionyl chloride (LiSOCl2) batteries are least impacted by self-discharge due to their unique ability to harness the passivation effect, whereby a thin film of lithium chloride (LiCl) forms on the surface of the anode to act as a separation barrier from the electrode, thus limiting the chemical reactions that cause self-discharge. When a continuous current load is applied to the cell, the passivation layer initially causes high resistance and a drop in voltage until the discharge reaction begins to dissipate the passivation layer: a process that repeats each time a load is applied.
+
+The level of passivation can vary based on several factors, including the cell’s construction, current discharge capacity, the length of storage, storage temperature, discharge temperature and prior discharge conditions, such as partially discharging a cell and then removing the load.
+
+Experienced battery manufacturers are able to harness the passivation effect through proprietary cell construction and higher quality raw materials. For example, the highest grade bobbin-type LiSOCl2 battery can achieve a self-discharge rate as low as 0.7% per year, able to retain roughly 70% of its original capacity after 40 years. Conversely, an inferior quality bobbin-type LiSOCl2 cell can have a self-discharge rate of up to 3% per year, exhausting roughly 30% of its available capacity every 10 years, making 40-year battery life impossible. Battery life is dictated by the amount of average energy being consumed in “standby” mode along with the intensity, duration and frequency of energy pulses during “active” mode.
+
+Pulses of up to 15 A are required to initiate two-way wireless communications. Standard bobbin-type LiSOCl2 cells cannot deliver such high pulses due to their low-rate design but can be easily modified with the addition of a patented hybrid layer capacitor (HLC) (Figure 2). Using this hybrid approach, the bobbin-type LiSOCl2 cell delivers low-level background current required during “standby” mode while the HLC delivers high pulses during “active” mode. The patented HLC also features a unique end-of-life voltage plateau that can be interpreted to deliver “low battery” status alerts for proactive battery maintenance.
+
+
+
+Figure 2: Bobbin-type liSOCl2 batteries can be combined with a patented hybrid layer capacitor (HLC) to offer up to 40-year operating life while providing high pulses to power two-way wireless communications.
+
+
+Supercapacitors also generate high pulses but are mainly limited to consumer applications due to serious drawbacks, including short-duration power, linear discharge qualities that do not allow for the use of all available energy, low capacity, low energy density and very high self-discharge rates of up to 60% per year. Supercapacitors linked in series require the use of bulky cell-balancing circuits that add expense and drain current to further shorten their operating life.
+
+Supercapacitors can be used in conjunction with bobbin-type LiSOCL2 cells to enhance voltage response as minimum cut-off voltage can be an important consideration. As batteries age, voltage tends to fluctuate, especially approaching end of life. The ideal power source should last as long as the device to reduce or eliminate the need for costly battery replacement. However, distinguishing a higher quality battery from a lower quality cell can be challenging since the effects of a high annual self-discharge rate could take years to become fully measurable. Additionally, short-term results are often highly inaccurate in predicting long-term battery performance since theoretical models tend to underestimate the passivation effect as well as long-term exposure to extreme temperatures.
+
+Therefore, thorough due diligence is required to ensure that the ideal battery is being specified for long-term deployments at remote sites.
+
+To properly evaluate competing battery brands, potential suppliers should be required to provide fully documented and verifiable test reports, as well as in-field performance data from comparable devices with similar energy demands and environmental conditions. For this purpose, Tadiran has generated a massive database accumulated over decades to monitor long-term battery performance under laboratory conditions as well as through random customer-supplied samples from the field.
+
+Identifying the battery that best matches the application’s long-term performance requirements is essential to ensuring long-term IIoT connectivity. With so many variables to consider, it is highly recommended that you consult with an applications engineer who can review your operational profile to identify a power supply solution that is both cost effective and maximizes long-term product performance.
+
+If the expected lifetime of the device is under 10 to 15 years, then several primary battery chemistries may be considered. However, if an ultra-long-life battery is required that can last for up to 40 years, then your choice is limited to bobbin-type LiSOCl2 chemistry due to its ability to harness the passivation effect.
+
+When specifying a battery, it is also important to consider whether the cell will be used as the main power source or as a back-up source of energy. When used as a back-up power supply, and potentially sitting idle for extended periods, you must be especially mindful of the operating environment, self-discharge rate and requirements for fast battery response.
+
+A knowledgeable applications engineer can assist you throughout this decision-making process. Ayyeka is a developer of remote monitoring technologies that provide digital transformation for critical infrastructure. The company’s technology embeds edge AI into field assets. With its combination of edge, Internet of Things (IoT) and AI/machine learning (ML), it propels the critical infrastructure space, enabling infrastructure stakeholders to create, manage and use remote field assets data.
+
+Ayyeka’s AI-enabled smart sensors monitor sensors used in solid waste and wastewater management (Figure 3), public utilities, transportation, energy exploration and distribution, smart cities, environmental monitoring and other hard infrastructure. Tadiran bobbin-type LiSOCl2 batteries power two-way wireless communications to maximize operating life, detect unusual events, enable predictive maintenance and repairs and counter cyber security threats.
+
+
+Figure 3: Ayyeka’s solutions enable utilities to gain the situational awareness to detect events in real time and track their source, impacting the entire wastewater network. Courtesy: Ayyeka Resensys provides a powerful platform for remote monitoring of strain (stress), vibration (acceleration), displacement, crack activity, tilt, inclination, temperature and humidity. For protecting infrastructure systems against aging and malfunction, the company developed a global network to supply its high precision, durable and reliable structural monitoring solutions to customer applications including bridges, tunnels, buildings, dams and cranes.
+
+Resensys wireless sensors are mounted beneath bridge trusses (Figure 4) to measure structural stress. These locations are highly inaccessible and use of a bobbin-type LiSOCl2 battery serve to maximize return on investment by maximizing the operating life and increasing product reliability in extreme temperatures.
+
+
+Figure 4: Resensys structural stress sensors mounted beneath bridge trusses require extended life bobbin-type LiSOCl2 batteries to reduce the need for costly and dangerous work to replace batteries in such hard-to-access locations.
+
+
+
+LiSOCl2 batteries to reduce the need for costly and dangerous work to replace batteries in such hard-to-access locations.
+
+This feature originally appeared in AUTOMATION 2023: IIoT & Industry 4.0. 

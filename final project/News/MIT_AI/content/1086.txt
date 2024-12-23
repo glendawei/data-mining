@@ -1,0 +1,10 @@
+Can a robot teach us how people learn? 
+ Cog, the newest and most ambitious robot developed by Rodney Brooks in the Artificial Intelligence Lab, is the personification, in name and aim, of Professor Brooks' belief that the development of human cognition is based on "embodiment." The theory of embodiment holds that it is through the interaction of the physical body with its surroundings that tactics are learned, associations made, and cognition ultimately developed.  "Physical grounding is critical," Professor Brooks said. "Our goal is to build a system that can operate in the same world we live in." Cog consists of a torso with two arms, two hands, three degrees of freedom in the neck and the hips, and a computer brain modeled on human neuroanatomy. This physical system will permit testing and observation of how rudimentary image-vision processing develops into complex human interaction and eye-hand coordination. The building of Cog represents a serious attempt to build a robot with something approaching general purpose cognitive abilities. "We want Cog to have the ability to interact with humans in a real sense. We don't want our robots to be aliens," Professor Brooks said. Since the development of human cognition is so little understood, this project represents a bold tack-admired by some, decried by others. Professor Brooks and his team, which includes Assistant Professor Lynn Stein and graduate student Cynthia Ferrell are undaunted. "I'll know we've succeeded when the graduate students feel bad about switching off the robot," Professor Brooks said.  
+A version of this
+                article appeared in the 
+                June 29, 1994
+
+                issue of MIT Tech Talk (Volume 
+                38, Number 
+                37).
+ 

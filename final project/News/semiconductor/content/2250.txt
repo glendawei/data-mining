@@ -1,0 +1,1 @@
+EPC ships smallest 100V, 2mΩ GaN FET Efficient Power  Conversion Corp (EPC) of El Segundo, CA, USA has expanded its range of low-voltage,  off-the-shelf gallium nitride (GaN)  transistors with the introduction of the EPC2071  (1.7mΩ typical, 100V) GaN field-effect transistor  (FET). 

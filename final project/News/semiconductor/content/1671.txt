@@ -1,0 +1,1 @@
+Transphorm releases compact 240W power adapter reference design with TO-220 GaN FETs 

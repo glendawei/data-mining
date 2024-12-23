@@ -1,0 +1,33 @@
+Professor Patrick Winston, former director of MIT’s Artificial Intelligence Laboratory, dies at 76 
+ Patrick Winston, a beloved professor and computer scientist at MIT, died on July 19 at Massachusetts General Hospital in Boston. He was 76.
+ 
+A professor at MIT for almost 50 years, Winston was director of MIT’s Artificial Intelligence Laboratory from 1972 to 1997 before it merged with the Laboratory for Computer Science to become MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL).
+ 
+A devoted teacher and cherished colleague, Winston led CSAIL’s Genesis Group, which focused on developing AI systems that have human-like intelligence, including the ability to tell, perceive, and comprehend stories. He believed that such work could help illuminate aspects of human intelligence that scientists don’t yet understand.
+ 
+“My principal interest is in figuring out what’s going on inside our heads, and I’m convinced that one of the defining features of human intelligence is that we can understand stories,'” said Winston, the Ford Professor of Artificial Intelligence and Computer Science, in a 2011 interview for CSAIL. “Believing as I do that stories are important, it was natural for me to try to build systems that understand stories, and that shed light on what the story-understanding process is all about.”
+ 
+He was renowned for his accessible and informative lectures, and gave a hugely popular talk every year during the Independent Activities Period called “How to Speak.” 
+ 
+“As a speaker he always had his audience in the palm of his hand,” says MIT Professor Peter Szolovits. “He put a tremendous amount of work into his lectures, and yet managed to make them feel loose and spontaneous. He wasn’t flashy, but he was compelling and direct. ”
+ 
+Winston’s dedication to teaching earned him many accolades over the years, including the Baker Award, the Eta Kappa Nu Teaching Award, and the Graduate Student Council Teaching Award.
+ 
+“Patrick’s humanity and his commitment to the highest principles made him the soul of EECS,” MIT President L. Rafael Reif wrote in a letter to the MIT community. “I called on him often for advice and feedback, and he always responded with kindness, candor, wisdom and integrity.  I will be forever grateful for his counsel, his objectivity, and his tremendous inspiration and dedication to our students.”
+ Teaching computers to think Born Feb. 5, 1943 in Peoria, Illinois, Winston was always exceptionally curious about science, technology and how to use such tools to explore what it means to be human. He was an MIT-lifer starting in 1961, earning his bachelor’s, master’s and doctoral degrees from the Institute before joining the faculty of the Department of Electrical Engineering and Computer Science in 1970.
+ 
+His thesis work with Marvin Minsky centered on the difficulty of learning, setting off a trajectory of work where he put a playful, yet laser-sharp focus on fine-tuning AI systems to better understand stories.
+ 
+His Genesis project aimed to faithfully model computers after human intelligence in order to fully grasp the inner workings of our own motivations, rationality, and perception. Using MIT research scientist Boris Katz’s START natural language processing system and a vision system developed by former MIT PhD student Sajit Rao, Genesis can digest short, simple chunks of text, then spit out reports about how it interpreted connections between events.
+ 
+While the system has processed many works, Winston chose “Macbeth” as a primary text because the tragedy offers an opportunity to take big human themes, such as greed and revenge, and map out their components.
+ 
+“[Shakespeare] was pretty good at his portrayal of ‘the human condition,’ as my friends in the humanities would say,” Winston told The Boston Globe. “So there’s all kinds of stuff in there about what’s typical when we humans wander through the world.”
+ 
+His deep fascination with humanity, human intelligence, and how we communicate information spilled over into what he often described as his favorite academic activity: teaching.
+ 
+“He was a superb educator who introduced the field to generations of students,” says MIT Professor and longtime colleague Randall Davis. “His lectures had an uncanny ability to move in minutes from the details of an algorithm to the larger issues it illustrated, to yet larger lessons about how to be a scientist and a human being.”
+ 
+A past president of the Association for the Advancement of Artificial Intelligence (AAAI), Winston also wrote and edited numerous books, including a seminal textbook on AI that’s still used in classrooms around the world. Outside of the lab he also co-founded Ascent Technology, which produces scheduling and workforce management applications for major airports.
+ 
+He is survived by his wife Karen Prendergast and his daughter Sarah.  

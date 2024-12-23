@@ -1,0 +1,30 @@
+Marvin Minsky, “father of artificial intelligence,” dies at 88 
+ Marvin Minsky, a mathematician, computer scientist, and pioneer in the field of artificial intelligence, died at Boston’s Brigham and Women’s Hospital on Sunday, Jan. 24, of a cerebral hemorrhage. He was 88. Minsky, a professor emeritus at the MIT Media Lab, was a pioneering thinker and the foremost expert on the theory of artificial intelligence. His 1985 book “The Society of Mind” is considered a seminal exploration of intellectual structure and function, advancing understanding of the diversity of mechanisms interacting in intelligence and thought. Minsky’s last book, “The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind,” was published in 2006. Minsky viewed the brain as a machine whose functioning can be studied and replicated in a computer — which would teach us, in turn, to better understand the human brain and higher-level mental functions: How might we endow machines with common sense — the knowledge humans acquire every day through experience? How, for example, do we teach a sophisticated computer that to drag an object on a string, you need to pull, not push — a concept easily mastered by a two-year-old child? "Very few people produce seminal work in more than one field; Marvin Minksy was that caliber of genius," MIT President L. Rafael Reif says. "Subtract his contributions from MIT alone and the intellectual landscape would be unrecognizable: without CSAIL, without the Media Lab, without the study of artificial intelligence and without generations of his extraordinarily creative students and protégés. His curiosity was ravenous. His creativity was beyond measuring. We can only be grateful that he made his intellectual home at MIT.” A native New Yorker, Minsky was born on Aug. 9, 1927, and entered Harvard University after returning from service in the U.S. Navy during World War II. After graduating from Harvard with honors in 1950, he attended Princeton University, receiving his PhD in mathematics in 1954. In 1951, his first year at Princeton, he built the first neural network simulator. Minsky joined the faculty of MIT’s Department of Electrical Engineering and Computer Science in 1958, and co-founded the Artificial Intelligence Laboratory (now the Computer Science and Artificial Intelligence Laboratory) the following year. At the AI Lab, he aimed to explore how to endow machines with human-like perception and intelligence. He created robotic hands that can manipulate objects, developed new programming frameworks, and wrote extensively about philosophical issues in artificial intelligence. “Marvin Minsky helped create the vision of artificial intelligence as we know it today,” says CSAIL Director Daniela Rus, the Andrew and Erna Viterbi Professor in MIT’s Department of Electrical Engineering and Computer Science. “The challenges he defined are still driving our quest for intelligent machines and inspiring researchers to push the boundaries in computer science.” Minsky was convinced that humans will one day develop machines that rival our own intelligence. But frustrated by a shortage of both researchers and funding in recent years, he cautioned, “How long this takes will depend on how many people we have working on the right problems.” In 1985, Minsky became a founding member of the MIT Media Lab, where he was named the Toshiba Professor of Media Arts and Sciences, and where he continued to teach and mentor until recently. Professor Nicholas Negroponte, co-founder and chairman emeritus of the Media Lab, says: “Marvin talked in riddles that made perfect sense, were always profound and often so funny that you would find yourself laughing days later. His genius was so self-evident that it defined ‘awesome.’ The Lab bathed in his reflected light.” In addition to his renown in artificial intelligence, Minsky was a gifted pianist — one of only a handful of people in the world who could improvise fugues, the polyphonic counterpoint that distinguish Western classical music. His influential 1981 paper “Music, Mind and Meaning” illuminated the connections between music, psychology, and the mind. Other achievements include Minsky’s role as the inventor of the earliest confocal scanning microscope. He was also involved in the inventions of the first “turtle,” or cursor, for the LOGO programming language, with Seymour Papert, and the “Muse” synthesizer for musical variations, with Ed Fredkin. Minsky received the world’s top honors for his pioneering work and mentoring role in the field of artificial intelligence, including the A.M. Turing Award — the highest honor in computer science — in 1969. In addition to the Turing Award, Minsky received honors over the years including the Japan Prize; the Royal Society of Medicine’s Rank Prize (for Optoelectronics); the Optical Society of America’s R.W. Wood Prize; MIT’s James R. Killian Jr. Faculty Achievement Award; the Computer Pioneer Award from IEEE Computer Society; the Benjamin Franklin Medal; and, in 2014, the Dan David Foundation Prize for the Future of Time Dimension titled “Artificial Intelligence: The Digital Mind,” and the BBVA Group’s BBVA Foundation Frontiers of Knowledge Lifetime Achievement Award. Minsky is survived by his wife, Gloria Rudisch Minsky, MD, and three children: Henry, Juliana, and Margaret Minsky. The family requests that memorial contributions be directed to the Marvin Minsky Foundation, which supports research in artificial intelligence, including support for graduate students. A celebration of Minsky’s life will be held at the MIT Media Lab later this year. 
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

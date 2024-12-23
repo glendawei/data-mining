@@ -1,0 +1,9 @@
+Siemens Offers Virtual Product Expert for CNC Now all Siemens CNC community members will be able to interact with a product expert and get answers to programming and operations questions on-demand. Siemens today introduced the Virtual Product Expert (VPE), a new support program for its CNC machine tool users, machine builders, dealers and importers. Through the VPE program, customers can now interact directly with a SINUMERIK CNC product expert and have their specific operation and programming questions answered—from the basic functions of the control to the most advanced machining technology aspects of the hardware and software suites. Best of all, this service is offered to all Siemens CNC community members at no cost.
+ 
+Machine tool customers can contact Siemens to arrange an online session, tailored to their specific needs, regardless of where the programmer, operator or the machine are located. Sessions are typically one-hour in length and are being scheduled on a first-come, first-served basis.
+ 
+John Meyer, the marketing communications manager for the Siemens Machine Tool Business, notes, “With the rapid advancement in our SINUMERIK CNC technology on both the automation hardware and software sides, we see our Virtual Product Expert program as a vital part of our support offering. We know it will benefit our machine tool users, who are looking for immediate answers to their operation and programming challenges in order to keep their production running. It’s like having a Siemens CNC expert in your back pocket."
+
+For more information on the Virtual Product Expert, please visit the website.
+
+For additional machine tool CNC training offered by Siemens, users can visit this website. 

@@ -1,0 +1,86 @@
+Empowering Cambridge youth through data activism 
+ For over 40 years, the Mayor's Summer Youth Employment Program (MSYEP, or the Mayor’s Program) in Cambridge, Massachusetts, has been providing teenagers with their first work experience, but 2022 brought a new offering. Collaborating with MIT’s Personal Robots research group (PRG) and Responsible AI for Social Empowerment and Education (RAISE) this summer, MSYEP created a STEAM-focused learning site at the Institute. Eleven students joined the program to learn coding and programming skills through the lens of “Data Activism.” MSYEP’s partnership with MIT provides an opportunity for Cambridge high schoolers to gain exposure to more pathways for their future careers and education. The Mayor’s Program aims to respect students’ time and show the value of their work, so participants are compensated with an hourly wage as they learn workforce skills at MSYEP worksites. In conjunction with two ongoing research studies at MIT, PRG and RAISE developed the six-week Data Activism curriculum to equip students with critical-thinking skills so they feel prepared to utilize data science to challenge social injustice and empower their community. Rohan Kundargi, K-12 Community Outreach Administrator for MIT Office of Government and Community Relations (OGCR), says, “I see this as a model for a new type of partnership between MIT and Cambridge MSYEP. Specifically, an MIT research project that involves students from Cambridge getting paid to learn, research, and develop their own skills!” Cross-Cambridge collaboration Cambridge’s Office of Workforce Development initially contacted MIT OGCR about hosting a potential MSYEP worksite that taught Cambridge teens how to code. When Kundargi reached out to MIT pK-12 collaborators, MIT PRG’s graduate research assistant Raechel Walker proposed the Data Activism curriculum. Walker defines “data activism” as utilizing data, computing, and art to analyze how power operates in the world, challenge power, and empathize with people who are oppressed. Walker says, “I wanted students to feel empowered to incorporate their own expertise, talents, and interests into every activity. In order for students to fully embrace their academic abilities, they must remain comfortable with bringing their full selves into data activism.” As Kundargi and Walker recruited students for the Data Activism learning site, they wanted to make sure the cohort of students — the majority of whom are individuals of color — felt represented at MIT and felt they had the agency for their voice to be heard. “The pioneers in this field are people who look like them,” Walker says, speaking of well-known data activists Timnit Gebru, Rediet Abebe, and Joy Buolamwini. When the program began this summer, some of the students were not aware of the ways data science and artificial intelligence exacerbate systemic oppression in society, or some of the tools currently being used to mitigate those societal harms. As a result, Walker says, the students wanted to learn more about discriminatory design in every aspect of life. They were also interested in creating responsible machine learning algorithms and AI fairness metrics. A different side of STEAM The development and execution of the Data Activism curriculum contributed to Walker’s and postdoc Xiaoxue Du’s respective research at PRG. Walker is studying AI education, specifically creating and teaching data activism curricula for minoritized communities. Du’s research explores processes, assessments, and curriculum design that prepares educators to use, adapt, and integrate AI literacy curricula. Additionally, her research targets how to leverage more opportunities for students with diverse learning needs. The Data Activism curriculum utilizes a “libertatory computing” framework, a term Walker coined in her position paper with Professor Cynthia Breazeal, director of MIT RAISE, dean for digital learning, and head of PRG, and Eman Sherif, a then-undergraduate researcher from University of California at San Diego, titled “Liberty Computing for African American Students.” This framework ensures that students, especially minoritized students, acquire a sound racial identity, critical consciousness, collective obligation, liberation centered academic/achievement identity, as well as the activism skills to use computing to transform a multi-layered system of barriers in which racism persists. Walker says, “We encouraged students to demonstrate competency in every pillar because all of the pillars are interconnected and build upon each other.” Walker developed a series of interactive coding and project-based activities that focused on understanding systemic racism, utilizing data science to analyze systemic oppression, data drawing, responsible machine learning, how racism can be embedded into AI, and different AI fairness metrics. This was the students’ first time learning how to create data visualizations using the programming language Python and the data analysis tool Pandas. In one project meant to examine how different systems of oppression can affect different aspects of students’ own identities, students created datasets with data from their respective intersectional identities. Another activity highlighted African American achievements, where students analyzed two datasets about African American scientists, activists, artists, scholars, and athletes. Using the data visualizations, students then created zines about the African Americans who inspired them. RAISE hired Olivia Dias, Sophia Brady, Lina Henriquez, and Zeynep Yalcin through the MIT Undergraduate Research Opportunity Program (UROP) and PRG hired freelancer Matt Taylor to work with Walker on developing the curriculum and designing interdisciplinary experience projects. Walker and the four undergraduate researchers constructed an intersectional data analysis activity about different examples of systemic oppression. PRG also hired three high school students to test activities and offer insights about making the curriculum engaging for program participants. Throughout the program, the Data Activism team taught students in small groups, continually asked students how to improve each activity, and structured each lesson based on the students’ interests. Walker says Dias, Brady, Henriquez, and Yalcin were invaluable to cultivating a supportive classroom environment and helping students complete their projects. 
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Student Nina says, “It’s opened my eyes to a different side of STEM. I didn’t know what ‘data’ meant before this program, or how intersectionality can affect AI and data.” Before MSYEP, Nina took Intro to Computer Science and AP Computer Science, but she has been coding since Girls Who Code first sparked her interest in middle school. “The community was really nice. I could talk with other girls. I saw there needs to be more women in STEM, especially in coding.” Now she’s interested in applying to colleges with strong computer science programs so she can pursue a coding-related career. From MSYEP to the mayor’s office Mayor Sumbul Siddiqui visited the Data Activism learning site on Aug. 9, accompanied by Breazeal. A graduate of MSYEP herself, Siddiqui says, “Through hands-on learning through computer programming, Cambridge high school students have the unique opportunity to see themselves as data scientists. Students were able learn ways to combat discrimination that occurs through artificial intelligence.” In an Instagram post, Siddiqui also said, "I had a blast visiting the students and learning about their projects." Students worked on an activity that asked them to envision how data science might be used to support marginalized communities. They transformed their answers into block-printed T-shirt designs, carving pictures of their hopes into rubber block stamps. Some students focused on the importance of data privacy, like Jacob T., who drew a birdcage to represent data stored and locked away by third party apps. He says, “I want to open that cage and restore my data to myself and see what can be done with it.” 
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Many students wanted to see more representation in both the media they consume and across various professional fields. Nina talked about the importance of representation in media and how that could contribute to greater representation in the tech industry, while Kiki talked about encouraging more women to pursue STEM fields. Jesmin said, “I wanted to show that data science is accessible to everyone, no matter their origin or language you speak. I wrote ‘hello’ in Bangla, Arabic, and English, because I speak all three languages and they all resonate with me.” 
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+ “Overall, I hope the students continue to use their data activism skills to re-envision a society that supports marginalized groups,” says Walker. “Moreover, I hope they are empowered to become data scientists and understand how their race can be a positive part of their identity.” 

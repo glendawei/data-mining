@@ -1,0 +1,1 @@
+Integrating nanowire lasers in hybrid polymer-SiN waveguides Northwestern Polytechnical University in  China and Australian National University report on progress in integrating on-chip nanowire (NW) laser  sources in passive  photonic integrated circuits (PICs) [Ruixuan Yi et al, Nano Letters, v22, p9920, 2022]. 

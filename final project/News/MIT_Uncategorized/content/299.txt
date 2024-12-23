@@ -1,0 +1,30 @@
+Teachers embrace hands-on learning in Materials Genome Camp 
+ Amid the brick furnaces of MIT’s forge and foundry, Mike Tarkanian poured liquid metal into a mold until it filled, then he emptied the rest into a trough. To demonstrate how quickly it solidified in the ambient temperature of the room, the senior lecturer in the MIT Department of Materials Science and Engineering (DMSE) kicked the trough over, and a solid chunk of metal fell out.
+ 
+The demonstration was part of the annual Materials Genome Camp, a weeklong workshop to educate grade-school and high-school teachers in materials science and engineering. The camp is run by the multi-institutional Center for Hierarchical Materials Design and the ASM Materials Education Foundation and at MIT by Greg Olson, the Thermo-Calc Professor of the Practice in DMSE.
+ 
+This year, 12 teachers from throughout the United States and Canada were tasked with creating a “self-healing” metal — which can repair damage it sustains — using tin and bismuth. While not a true steel alloy, the class affectionately dubs its cobbled-together creation Frankensteel.
+ 
+The course is aligned with the Materials Genome Initiative, an Obama-era federal effort to design and manufacture materials faster and cheaper than has traditionally been done. In that vein, the teachers designed their new metal using CALPHAD, a methodology for predicting properties of multicomponent materials such as alloys.
+ 
+Frankensteel is supported by wires made from a shape-memory material, which can revert from one shape to another. If the metal cracks, it can “heal” itself when heated to a certain temperature.
+ 
+“The teachers set the composition and temperature in a way that the material has about 20 percent liquid locally forming during the healing process,” says Julian Rackwitz, a graduate student in Olson’s research group and one of the camp’s coordinators. “The shape-memory wires pull together the crack surfaces, and the liquid heals everything back together — while most of the material is still solid to keep its shape.”
+ 
+Throughout the week the teachers performed experiments, testing structural components in ice and plaster, casting their experimental samples, and doing tensile testing, or measuring the force needed to break the materials. Using what they learned during the camp, the participants plan to develop new projects for their students back home. “This experience really helped me learn more about materials science — and it gave us a lot of applications we can bring back to our middle school or high school classrooms,” says Yong You, a teacher at Ridgeview Middle School in Gaithersburg, Maryland. She has taught physics, Earth science, and astronomy to eighth-graders and this year will teach life science in the seventh grade.
+ 
+You enjoyed experimenting with various structural reinforcement combinations in plaster. Bamboo, paperclips, paper, and elastics were just some of the items used to strengthen the material. “We tried all kinds of combinations, pieces, and then we tried to see how much force we needed to break the plaster we made,” You says.
+ 
+Such experiments are easily transferred back to the classroom, You says. “You can teach your students about materials. How do you reinforce them? How do you make them stronger?”
+ 
+Another participant, Brenna Toblan, is a science and physics teacher at Central Memorial High School in Calgary, Alberta. Some of her classes are prerequisites, so the students are not particularly interested in science. “They sometimes think of it as just, ‘It’s a course that you’re making me take and I hate it.’”
+ 
+Toblan wants to bring some of her experiences in the MIT camp’s hands-on workshops back to her fellow teachers and help them understand the importance of developing engaging activities motivated by practical application. For example, she’s interested in talking to teachers in her school system’s pre-engineering program, who might have access to the specialized equipment required to do tensile testing.
+ 
+The goal, Toblan says, is to make science more approachable for students, “to give them ideas, to show them, ‘What’s the point of science?’”
+ 
+Toblan says she saw the week not as work, but as recreation. She tried to convince another teacher at her school that she should go to the camp. “She says, ‘Oh, I’m too busy, I want to have my holiday.’ No, no, you don’t understand. This IS a holiday. This is fun.”
+ 
+In fact, the experience left Toblan feeling invigorated to pursue another degree. She was considering her background in astrophysics and how it can tie into materials science and engineering.
+ 
+“Do I do another engineering degree? Or do I go straight to a master’s/PhD in astrophysics? Or can I combine them somehow? Because this is really fascinating,” says Toblan, who has taught for nearly 30 years, reflecting on what she wants to do in retirement. “Well, I’m not actually going to retire. I’m going to go learn new things and do new things.” 

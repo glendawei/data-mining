@@ -1,0 +1,17 @@
+
+        Watch Syntiant’s 1-Milliwatt Chip Play ​Doom​
+     The NDP200 is meant to watch for key events and wake up bigger systems 
+	There are many things to do with an always-on 1-milliwatt machine-learning chip, but few spark the imagination quite like watching it play Doom. At the 2023 IEEE International Solid State Circuits Conference (ISSCC) in San Francisco this week, Irvine, Calif.–based Syntiant detailed the NDP200. This is an ultralow-power chip designed to run neural networks that monitor video and wake other systems when it spots something important. That may be its core purpose, but the NDP200 can also mow down the spawn of hell, if properly trained.  NDP200 Playing Doomwww.youtube.com David Garrett, an IEEE Fellow and, until recently, Syntiant’s chief architect and senior vice president of engineering, says the point was to prove “you can do meaningful detection and actions at this scale.”
+ 
+	Syntiant used VizDoom, a lightweight version of the first generation of the game, which is popular in AI research. The team used reinforcement learning to train a neural network consisting of several layers. The first set of layers is responsible for understanding what the network is seeing, and the last set is responsible for taking action in response. In total, the network consisted of about 600,000 parameters—not the billions of parameters required for ChatGPT, but still much beefier than the 10,000 it takes to listen for a key phrase like “OK, Google.” NDP200 has 640 kilobytes of onboard memory for neural-network parameters.
+ 
+	The game level in the video clip above is called “Defend the Circle,” and it simply involves moving inside a circular room, shooting whatever horrors are in front of you. Garrett recalls that in the training, the neural network had to first identify the monsters and then learn to shoot them. “After its first kill, it unloads the clip, but then it figures out that’s not a good strategy,” he said. The network soon learned to conserve ammunition. Garrett, who played the OG version of Doom as an undergraduate in the early 1990s, says the NDP200 is probably better at playing it than he is now.
+  
+	Eye-catching as the Doom demo is, NDP200 has much more practical uses. Garrett points to its ability to do “bounding-box person detection,” a key task typically done by more powerful processors. The Syntiant chip could run person detection as a power-saving step for a home or car security system.
+ 
+	To show its energy efficiency, Syntiant compared the NDP200 with an Arm Cortex A53-based processor running a 200,000-parameter version of MobileNetV1, which is the test used by MLPerf to judge systems on how well they respond to “visual wake words.” The NDP200 uses just 166 microjoules for each scan of an image, about 1/100 what the Arm processor achieves. So the Syntiant chip can scan six frames per second of video while burning 1 milliwatt.
+ 
+	The chip’s not-so-secret sauce is the custom-made path through which data flows in the chip’s neural decision processor. According to Garett, it keeps the chip’s multiply-and-accumulate units, the heart of machine-learning computations, as fully utilized as possible, pushing through as much as 9 gigabytes per second of data bandwidth to the neural core.
+ 
+	Garrett wouldn’t say what’s next for Syntiant’s technology development, but he expects more interesting applications. “Half a million parameters is enough to do really good stuff at the edge,” he says.
+ 

@@ -1,0 +1,58 @@
+Four from MIT awarded National Medals of Technology, Science 
+ The White House honored four MIT affiliates today with the nation’s highest awards for scientists and innovators. At a ceremony this afternoon, President Joe Biden announced the recipients of this year’s National Medals of Technology and Innovation and National Medals of Science. James Fujimoto ’79, SM ’81, PhD ’84, the Elihu Thomson Professor in Electrical Engineering and principal investigator in the Research Laboratory of Electronics (RLE), was a co-recipient of the National Medal of Technology and Innovation along with Eric Swanson SM ’84, a research affiliate at RLE and mentor for the MIT Deshpande Center for Technological Innovation, and David Huang ’85, SM ’89, PhD ’93, professor of ophthalmology at Oregon Health and Science University. Subra Suresh ScD ’81, the Vannevar Bush Professor Emeritus and former dean of the MIT School of Engineering, was awarded the National Medal of Science. “Anything is possible if we put our mind to it, and with you all, you’ve got incredible minds,” President Biden told the honorees. “You’ve saved people’s lives, you’ve changed the way we look at the world, and you made it better. I don’t know that we can ask for anything more.” 
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Fujimoto, Swanson, and Huang are being honored for the invention of optical coherence tomography (OCT), a technology that uses reflected light to generate high-resolution images of sensitive tissue, like the eye, in a noninvasive way. OCT, which they introduced in paper published in the journal Science in 1991, has since become the standard of care in ophthalmology and is used in the diagnosis and treatment of many diseases, including macular degeneration, glaucoma, and diabetic retinopathy. Earlier this year, the three also won the Lasker-DeBakey Clinical Medical Research Award for this influential work. “The invention of optical coherence tomography represents one of the biggest engineering breakthroughs from MIT in the past few decades. The impact Professor Fujimoto, Dr. David Huang, and Eric Swanson’s research has had on countless patients across the world is truly remarkable and embodies MIT’s mission to work for the betterment of humankind,” says Anantha Chandrakasan, dean of the MIT School of Engineering and the Vannevar Bush Professor of Electrical Engineering and Computer Science. The National Medal of Technology and Innovation, which was established in 1980, recognizes those who have made lasting contributions to America’s competitiveness and quality of life and helped strengthen the nation’s technological workforce. Nominees are selected by a distinguished independent committee representing the private and public sectors. Fujimoto, Swanson, and Huang join 30 other MIT community members who have been awarded the National Medal of Technology and Innovation. From bench-top to clinic In the early 1990s, Fujimoto, an electrical engineer who had joined the MIT faculty in 1985, was studying biomedical applications of advanced laser technologies. His lab was approached by Carmen Puliafito, an ophthalmologist at the New England Eye Center, who asked if they could explore laser applications for eye surgery. Huang, then an MD-PhD student in Fujimoto’s lab, began a project aimed at measuring the thickness of the retina using an optical technique called interferometry. They joined forces with Eric Swanson, who was then a satellite communications engineer at MIT Lincoln Laboratory and an expert on space communication using optics. Swanson utilized fiber optics and high-speed detection techniques to build a prototype device that was so sensitive that it could not only take precise measurements of the retina, but also be used to see inside it and enable OCT imaging. The resulting instrument produced the first high-resolution cross-sectional images of the microscopic structure of the retina. “Eric worked on this initially in his spare time. Because of his involvement, we were able to demonstrate that you could do imaging, and that really required using advanced techniques from satellite and optical communications,” Fujimoto says. OCT imaging works by shining thin beams of light onto tissue, which penetrate beneath its surface. Structures inside the tissue reflect that light back to a detector, but because structures at different depths reflect light differently, it returns to the detector with a time delay. A computer measures that time delay to construct a depth profile of the structure. OCT uses multiple passes with light beams to generate a series of depth profiles, which are combined into a cross-sectional or 3D image that can show objects under the tissue’s surface. The biggest challenge of developing OCT was determining how to capture reflections at the speed of light, Fujimoto says. “Light from the moon reaches Earth in 1.3 seconds. If you are trying to measure something on the cellular scale in biological tissue, incredibly high time resolution is required. And the amount of light that reflects back is very small, on the order of a billionth of the initial intensity. The combination of these is a very hard thing,” he adds.   With Swanson’s expertise, they were able to overcome these challenges and design an instrument that could work in a medical setting. Clinician scientists Carmen Puliafito and Joel Schuman at the New England Eye Center led clinical studies to image the eyes of more than 5,000 patients with diabetic retinopathy, age related macular degeneration, and glaucoma.  “These studies laid the foundation for future applications in ophthalmology as well as the commercialization of OCT. Advances were only possible because of multidisciplinary collaboration spanning clinical medicine, science, and engineering,” Fujimoto says. Today, OCT is the most commonly used ophthalmologic procedure, with tens of millions of scans performed each year internationally. The technique is so precise it can be used to image structures that are only about a thousandth of a millimeter in size. The future of optical coherence tomography Beyond its applications in ophthalmology, OCT has been utilized to image coronary plaques in the heart that can cause sudden cardiac arrest and is also being applied for cancer detection and surgical guidance, and in fundamental research. At MIT, Fujimoto and his team in the Biomedical Optical Imaging and Biophotonics Group continue to advance OCT technology to obtain greater speeds and higher resolutions. With these advances, the technology can be used to capture changes in the microvascular structure of the retina, which can be an early marker of disease. They have also investigated other applications of OCT, including high-resolution in vivo imaging of the GI tract for early cancer detection. Dozens of research groups around the world are also working on exciting applications of OCT, Fujimoto says. One promising future direction involves using the technology to map blood vessels and assess blood flow noninvasively by looking at the motion of blood cells. Other groups are utilizing OCT in neuroscience research. And some companies are now working to create OCT devices that could be used in pharmacies or community health centers to screen for undetected systemic disease, such as diabetes, in larger numbers of patients who don’t have easy access to screening, especially those in underserved communities. “Development of technology that makes an impact requires continued commitment over a long period of time. Of course you need an inventive advance, but there are a lot of advances along the way that might be perceived as incremental. But when you combine many incremental advances with contributions from the international scientific community and people from different disciplines who have different perspectives, it can be transformative,” Fujimoto says. 
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+ An influential researcher and transformative educator Suresh is being honored with a National Medal of Science for his commitment to research, education, and international collaboration that has advanced the study of material science and its applications to other disciplines, and forged cooperation among people and nations. “Dr. Suresh’s scholarship and advances the field of materials science are truly remarkable. His ability to foster research collaborations across disciplines — and across borders — has made a lasting impact in academia. Whether it was in his role as dean of engineering at MIT, director of the National Science Foundation, or president of Carnegie Mellon University, his contributions to engineering education have been transformative,” Chandrakasan says. The National Medal of Science was established in 1959 and is administered for the White House by the National Science Foundation. Awarded annually, it recognizes individuals who have made outstanding contributions to science and engineering. A committee of presidential appointees selects nominees on the basis of extraordinary contributions to chemistry, engineering, computing, mathematics, or the biological, behavioral/social, and physical sciences. After earning his doctorate from MIT in mechanical engineering, Suresh joined the faculty at Brown University, where he was promoted to full professor in 1989. He returned to MIT in 1993 as professor of materials science and engineering, and was appointed head of the department seven years later. During his time as department head, Suresh also served as the Institute’s lead coordinator on the creation of the Singapore-MIT Alliance for Research and Technology (SMART), MIT’s research enterprise in Singapore. He also founded the Global Enterprise for MicroMechanics and Molecular Medicine (GEM4), a program designed to promote collaboration, centered around nanomechanics in biomedicine and environmental health, across disciplinary boundaries at a global scale. Suresh was named dean of the School of Engineering in 2007. During his tenure as dean, the school launched several new initiatives, including the Center for Computational Engineering and the MIT Flexible Engineering Degree Program. He became an emeritus professor in 2010 after being appointed to lead the National Science Foundation (NSF). Under his leadership, NSF launched the Global Research Council, a virtual organization of heads of science and engineering funding agencies from more than 50 countries, aimed at fostering global collaboration and data sharing. He also oversaw the establishment of the Center-Life Balance program, an initiative to increase the number of doctoral-level women in science and engineering fields from 26 percent to 40 percent between 2011 and 2021.    Suresh left the NSF in 2013 to become president of Carnegie Mellon University, a role in which he served until 2018 when he was named president of Nanyang Technological University in Singapore. He returned to Brown in 2023 as professor at large in the School of Engineering. 

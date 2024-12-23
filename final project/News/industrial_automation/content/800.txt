@@ -1,0 +1,33 @@
+Ensure Performance Transparency Through OEE Performance tracking, OEE and digitalization are necessary for performance transparency. Measuring the overall equipment effectiveness (OEE) of a process helps users to justify the investments in the digitalization that are necessary to optimize CNC maintenance tasks. Such performance transparency allows users to monitor operations so they can make proactive, business-critical decisions.
+
+“The goal is to have clear, relevant and real-time information that helps in decision making,” said Santiago Martinez, pre-sales consultant at Siemens. “From a shopfloor perspective, imagine that we are measuring the OEE in our process using time logs and machine states that the process operator completes. This information must be manually copied to spreadsheets on the computer daily. Processing that information takes several days and when the performance report is presented, we are actually seeing a snapshot of process behavior from probably three or four days ago.”
+
+If the report shows low performance areas, the solution probably will arrive five days later, continued Martinez. Then the solution that can be implemented can take more time. “The result is the company loses money during that time delay, because it doesn’t have the tools to automatically provide the right information at the right time to alert us there are performance problems,” he said.
+
+From a machine perspective, Martinez continued, “imagine that we have already identified the machines that are causing a performance decrease, but we must identify the cause of the problem without a tool that provides us transparency. Identifying the cause of the problem could take several days or even months because we don’t have any data to compare. We don’t have a benchmark. The company will lose money because they don’t have a tool that provides machine transparency.”
+
+Martinez pointed out that smart software solutions can indicate precisely where low performance occurs. He said the Siemens Manage MyMachines and Analyze MyPerformance software tools, for example, could indicate in real time if the third-shift operator is running the machine at less than 100 percent of its speed rate. Martinez explained that OEE (Figure 1) is a great performance behavior and manufacturing process indicator, but if users don’t get information in real time, they could be acting on information that may be no longer be relevant. “Late decision making may be costing the company money,” he said. “That’s why performance tracking is detailed for OEE, so you can make decisions and take action.”
+
+
+
+Figure 1: OEE is a great performance behavior and manufacturing process indicator. Photo courtesy of Siemens Industry, Inc.
+
+
+The performance tracking solutions that Siemens offers closes that time gap. Tracking can be done with on-premises servers, in the cloud, or both. “But we can find more benefits in cloud-based tracking because we could have access to that information in real time and in any geographical part of the world, or maybe share information between companies,” Martinez explained.
+
+OEE is the result of multiplying three key performance indicators (KPIs) that you need to measure individually: quality, efficiency and availability. It’s very important to track each of these parameters. “For example,” continued Martinez, “to calculate availability, it’s necessary to know machine states and how long the machine has remained in those states. Knowing this information allows you to have clarity in how much time the machine spends working, how much time it’s idle, any other non-productive state, and compare the result to what was planned.” Digitalization is essential for capturing data automatically, which can improve decision making using process analysis methodologies like OEE. In addition to real-time OEE data, digitalization also can enable automatic responses for OEE results. “For example, if we only have a dashboard to present information but that information doesn’t help us make timely decisions, it’s not better,” explained Martinez. “With digitalization, we can text or email the OEE results to someone who can intervene if an asset or machine is underperforming. This functionality is not possible without digitalization.”
+
+Performance tracking and OEE metrics are the result of a combination of several hardware and software technologies. Controllers, edge devices and other hardware can acquire data, explained Martinez, but if the hardware doesn’t have the necessary connectivity to exchange information, it will not be possible to obtain OEE information.
+
+“For example, SINUMERIK controllers have different connectivity options that make it easy to implement solutions that provide transparency,” he explained. “We need a dashboard to visualize the process data. We have apps in our cloud-based services like Analyze MyPerformance specifically for CNC machines. The controller or the CNC needs to have connectivity agents. We need apps like Manage MyMachines and Analyze MyPerformance (Figure 2) that process the data and help us visualize the information we need. Manage MyMachines (Figure 3) provides machine transparency; Analyze MyPerformance is more focused on shopfloor OEE.”
+
+
+
+Figure 2: Analyze MyPerformance creates transparency about the utilization and performance of CNC machines allowing users to gain productivity through the identification of optimization potential while reducing production costs and increasing delivery reliability. Photo courtesy of Siemens Industry, Inc. OEE enables users to understand how the lack of maintenance affects equipment health and shopfloor efficiency. Likewise, OEE actually supports predictive maintenance and therefore, fleet management. Having this valuable information allows users to justify investments in the digitalization necessary to optimize CNC maintenance tasks. The ability to detect problems before they happen and react to correct them is the essence of predictive maintenance. Knowing—and acting on—this information in a timely manner can move the OEE indicator to 100 percent.
+
+
+Figure 3: With Manage MyMachines, users can increase the transparency of the machines on their shopfloor from anywhere and at any time. Photo courtesy of Siemens Industry, Inc.
+
+
+
+This is the fifth and final article in the Machine Tool Digitalization series sponsored by Siemens. The other articles in the series include: 

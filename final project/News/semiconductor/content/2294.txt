@@ -1,0 +1,13 @@
+Nexperia demonstrating power semiconductor developments at PCIM In booth #317 (Hall 9) at Power,  Control and Intelligent Motion (PCIM) Europe 2022 in Nürnberg Messe,  Nuremberg, Germany (10–12 May), Nexperia B.V. of Nijmegen, the Netherlands  (a subsidiary of Wingtech Technology Co Ltd) is demonstrating the  latest innovations and developments in power semiconductors across a wide range  of applications including the following: Wide-bandgap 
+  • CCPAK: Nexperia’s new surface-mount copper-clip  package for power gallium nitride (GaN) FETs; 
+  • Nexperia’s evaluation board for benchmarking  dynamic performance of 650V silicon carbide (SiC) rectifiers; 
+  • Broadcom half-bridge evaluation board using  Nexperia’s CCPAK GaN FETs and Nexperia totem pole power factor correction  (PFC) demo containing TO-247 GaN FETs. Power  management 
+  • LFPAK88 MOSFETs for 12V high-current circuit protection  applications live demo; 
+  • Power bipolar transistors in high-voltage LED  lighting application; 
+  • Clip-bonded FlatPower (CFP) package replacing  SMx demo. Motor  control 
+  • 500A high-current MOSFETs live demo; 
+  • LFPAK MOSFETs increasing to highest current in  BLDC motor control demo; 
+  • 50/55V application-specific MOSFETs (ASFETs) –  ‘the big pull’. Next-generation  support tools for power design engineers
+  • Precision Electrothermal models for MOSFETs  enabling early design validation; 
+  • Interactive Application Notes and MOSFET and  GaN FET Application Handbook; 
+  • Evaluation boards for power products. Also, at PCIM 2022 Nexperia is showing how LFPAK  MOSFETs are used in a surfboard e-fin and deliver a number of live technology  talks on MOSFETs, GaN FETs and component technology for vehicle electrification. “After more than two years being forced to attend  events virtually, the team at Nexperia is excited to once again be able to  reconnect with valued customers in-person at PCIM 2022,” according to  Chris Boyce, senior director marketing & product group head of Nexperia’s  Power MOSFETs business group. “Digital collaboration tools have their  place, but nothing can replace the type of interpersonal connection that  happens at industry events, and which so often acts as a catalyst for new and  innovative designs ideas”. 

@@ -1,0 +1,30 @@
+An artificial intelligence tool that can help detect melanoma 
+ Melanoma is a type of malignant tumor responsible for more than 70 percent of all skin cancer-related deaths worldwide. For years, physicians have relied on visual inspection to identify suspicious pigmented lesions (SPLs), which can be an indication of skin cancer. Such early-stage identification of SPLs in primary care settings can improve melanoma prognosis and significantly reduce treatment cost. The challenge is that quickly finding and prioritizing SPLs is difficult, due to the high volume of pigmented lesions that often need to be evaluated for potential biopsies. Now, researchers from MIT and elsewhere have devised a new artificial intelligence pipeline, using deep convolutional neural networks (DCNNs) and applying them to analyzing SPLs through the use of wide-field photography common in most smartphones and personal cameras. 
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+ DCNNs are neural networks that can be used to classify (or “name”) images to then cluster them (such as when performing a photo search). These machine learning algorithms belong to the subset of deep learning. Using cameras to take wide-field photographs of large areas of patients’ bodies, the program uses DCNNs to quickly and effectively identify and screen for early-stage melanoma, according to Luis R. Soenksen, a postdoc and a medical device expert currently acting as MIT’s first Venture Builder in Artificial Intelligence and Healthcare. Soenksen conducted the research with MIT researchers, including MIT Institute for Medical Engineering and Science (IMES) faculty members Martha J. Gray, W. Kieckhefer Professor of Health Sciences and Technology, professor of electrical engineering and computer science; and James J. Collins, Termeer Professor of Medical Engineering and Science and Biological Engineering. Soenksen, who is the first author of the recent paper, “Using Deep Learning for Dermatologist-level Detection of Suspicious Pigmented Skin Lesions from Wide-field Images,” published in Science Translational Medicine, explains that “Early detection of SPLs can save lives; however, the current capacity of medical systems to provide comprehensive skin screenings at scale are still lacking.” The paper describes the development of an SPL analysis system using DCNNs to more quickly and efficiently identify skin lesions that require more investigation, screenings that can be done during routine primary care visits, or even by the patients themselves. The system utilized DCNNs to optimize the identification and classification of SPLs in wide-field images. Using AI, the researchers trained the system using 20,388 wide-field images from 133 patients at the Hospital Gregorio Marañón in Madrid, as well as publicly available images. The images were taken with a variety of ordinary cameras that are readily available to consumers. Dermatologists working with the researchers visually classified the lesions in the images for comparison. They found that the system achieved more than 90.3 percent sensitivity in distinguishing SPLs from nonsuspicious lesions, skin, and complex backgrounds, by avoiding the need for cumbersome and time-consuming individual lesion imaging. Additionally, the paper presents a new method to extract intra-patient lesion saliency (ugly duckling criteria, or the comparison of the lesions on the skin of one individual that stand out from the rest) on the basis of DCNN features from detected lesions. “Our research suggests that systems leveraging computer vision and deep neural networks, quantifying such common signs, can achieve comparable accuracy to expert dermatologists,” Soenksen explains. “We hope our research revitalizes the desire to deliver more efficient dermatological screenings in primary care settings to drive adequate referrals.” Doing so would allow for more rapid and accurate assessments of SPLS and could lead to earlier treatment of melanoma, according to the researchers. Gray, who is senior author of the paper, explains how this important project developed: "This work originated as a new project developed by fellows (five of the co-authors) in the MIT Catalyst program, a program designed to nucleate projects that solve pressing clinical needs. This work exemplifies the vision of HST/IMES devotee (in which tradition Catalyst was founded) of leveraging science to advance human health.” This work was supported by Abdul Latif Jameel Clinic for Machine Learning in Health and by the Consejería de Educación, Juventud y Deportes de la Comunidad de Madrid through the Madrid-MIT M+Visión Consortium. 

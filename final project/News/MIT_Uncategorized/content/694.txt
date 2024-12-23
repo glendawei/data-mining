@@ -1,0 +1,98 @@
+Exploring new sides of climate and sustainability research 
+ When the MIT Climate and Sustainability Consortium (MCSC) launched its Climate and Sustainability Scholars Program in fall 2022, the goal was to offer undergraduate students a unique way to develop and implement research projects with the strong support of each other and MIT faculty. Now into its second semester, the program is underscoring the value of fostering this kind of network — a community with MIT students at its core, exploring their diverse interests and passions in the climate and sustainability realms.
+Inspired by MIT’s successful SuperUROP [Undergraduate Research Opportunities Program], the yearlong MCSC Climate and Sustainability Scholars Program includes a classroom component combined with experiential learning opportunities and mentorship, all centered on climate and sustainability topics.
+“Harnessing the innovation, passion, and expertise of our talented students is critical to MIT’s mission of tackling the climate crisis,” says Anantha P. Chandrakasan, dean of the School of Engineering, Vannevar Bush Professor of Electrical Engineering and Computer Science, and chair of the MCSC. “The program is helping train students from a variety of disciplines and backgrounds to be effective leaders in climate and sustainability-focused roles in the future.” “What we found inspiring about MIT’s existing SuperUROP program was how it provides students with the guidance, training, and resources they need to investigate the world’s toughest problems,” says Elsa Olivetti, the Esther and Harold E. Edgerton Associate Professor in Materials Science and Engineering and MCSC co-director. “This incredible level of support and mentorship encourages students to think and explore in creative ways, make new connections, and develop strategies and solutions that propel their work forward.”
+The first and current cohort of Climate and Sustainability Scholars consists of 19 students, representing MIT’s School of Engineering, MIT Schwarzman College of Computing, School of Science, School of Architecture and Planning, and MIT Sloan School of Management. These students are learning new perspectives, approaches, and angles in climate and sustainability — from each other, MIT faculty, and industry professionals.Projects with real-world applications
+Students in the program work directly with faculty and principal investigators across MIT to develop their research projects focused on a large scope of sustainability topics. “This broad scope is important,” says Desirée Plata, MIT’s Gilbert W. Winslow Career Development Professor in Civil and Environmental Engineering, “because climate and sustainability solutions are needed in every facet of society. For a long time, people were searching for a ‘silver bullet’ solution to the climate change problems, but we didn’t get to this point with a single technological decision. This problem was created across a spectrum of sociotechnological activities, and fundamentally different thinking across a spectrum of solutions is what’s needed to move us forward. MCSC students are working to provide those solutions.” Undergraduate student and physics major M. (MG) Geogdzhayeva is working with Raffaele Ferrari, Cecil and Ida Green Professor of Oceanography in the Department of Earth, Atmospheric and Planetary Sciences, and director of the Program in Atmospheres, Oceans, and Climate, on their project “Using Continuous Time Markov Chains to Project Extreme Events under Climate.” Geogdzhayeva’s research supports the Flagship Climate Grand Challenges project that Ferrari is leading along with Professor Noelle Eckley Selin. “The project I am working on has a similar approach to the Climate Grand Challenges project entitled 'Bringing computation to the climate challenge,'” says Geogdzhayeva. “I am designing an emulator for climate extremes. Our goal is to boil down climate information to what is necessary and to create a framework that can deliver specific information — in order to develop valuable forecasts. As someone who comes from a physics background, the Climate and Sustainability Scholars Program has helped me think about how my research fits into the real world, and how it could be implemented.” Investigating technology and stakeholders Within technology development, Jade Chongsathapornpong, also a physics major, is diving into photo-modulated catalytic reactions for clean energy applications. Chongsathapornpong, who has worked with the MCSC on carbon capture and sequestration through the Undergraduate Research Opportunities Program (UROP), is now working with Harry Tuller, MIT’s R.P. Simmons Professor of Ceramics and Electronic Materials. Louise Anderfaas, majoring in materials science and engineering, is also working with Tuller on her project “Robust and High Sensitivity Detectors for Exploration of Deep Geothermal Wells.”
+Two other students who have worked with the MCSC through UROP include Paul Irvine, electrical engineering and computer science major, who is now researching American conservatism’s current relation to and views about sustainability and climate change, and Pamela Duke, management major, now investigating the use of simulation tools to empower industrial decision-makers around climate change action.
+Other projects focusing on technology development include the experimental characterization of poly(arylene ethers) for energy-efficient propane/propylene separations by Duha Syar, who is a chemical engineering major and working with Zachary Smith, the Robert N. Noyce Career Development Professor of Chemical Engineering; developing methods to improve sheet steel recycling by Rebecca Lizarde, who is majoring in materials science and engineering; and ion conduction in polymer-ceramic composite electrolytes by Melissa Stok, also majoring in materials science and engineering. 
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+ “My project is very closely connected to developing better Li-Ion batteries, which are extremely important in our transition towards clean energy,” explains Stok, who is working with Bilge Yildiz, MIT’s Breene M. Kerr (1951) Professor of Nuclear Science and Engineering. “Currently, electric cars are limited in their range by their battery capacity, so working to create more effective batteries with higher energy densities and better power capacities will help make these cars go farther and faster. In addition, using safer materials that do not have as high of an environmental toll for extraction is also important.” Claire Kim, a chemical engineering major, is focusing on batteries as well, but is honing in on large form factor batteries more relevant for grid-scale energy storage with Fikile Brushett, associate professor of chemical engineering.
+Some students in the program chose to focus on stakeholders, which, when it comes to climate and sustainability, can range from entities in business and industry to farmers to Indigenous people and their communities. Shivani Konduru, an electrical engineering and computer science major, is exploring the “backfire effects” in climate change communication, focusing on perceptions of climate change and how the messenger may change outcomes, and Einat Gavish, mathematics major, on how different stakeholders perceive information on driving behavior.
+Two students are researching the impact of technology on local populations. Anushree Chaudhuri, who is majoring in urban studies and planning, is working with Lawrence Susskind, Ford Professor of Urban and Environmental Planning, on community acceptance of renewable energy siting, and Amelia Dogan, also an urban studies and planning major, is working with Danielle Wood, assistant professor of aeronautics and astronautics and media arts and sciences, on Indigenous data sovereignty in environmental contexts. “I am interviewing Indigenous environmental activists for my project,” says Dogan. “This course is the first one directly related to sustainability that I have taken, and I am really enjoying it. It has opened me up to other aspects of climate beyond just the humanity side, which is my focus. I did MIT’s SuperUROP program and loved it, so was excited to do this similar opportunity with the climate and sustainability focus.” Other projects include in-field monitoring of water quality by Dahlia Dry, a physics major; understanding carbon release and accrual in coastal wetlands by Trinity Stallins, an urban studies and planning major; and investigating enzyme synthesis for bioremediation by Delight Nweneka, an electrical engineering and computer science major, each linked to the MCSC’s impact pathway work in nature-based solutions. The wide range of research topics underscores the Climate and Sustainability Program’s goal of bringing together diverse interests, backgrounds, and areas of study even within the same major. For example, Helena McDonald is studying pollution impacts of rocket launches, while Aviva Intveld is analyzing the paleoclimate and paleoenvironment background of the first peopling of the Americas. Both students are Earth, atmospheric and planetary sciences majors but are researching climate impacts from very different perspectives. Intveld was recently named a 2023 Gates Cambridge Scholar. “There are students represented from several majors in the program, and some people are working on more technical projects, while others are interpersonal. Both approaches are really necessary in the pursuit of climate resilience,” says Grace Harrington, who is majoring in civil and environmental engineering and whose project investigates ways to optimize the power of the wind farm. “I think it’s one of the few classes I’ve taken with such an interdisciplinary nature.” 
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Perspectives and guidance from MIT and industry experts
+As students are developing these projects, they are also taking the program’s course (Climate.UAR), which covers key topics in climate change science, decarbonization strategies, policy, environmental justice, and quantitative methods for evaluating social and environmental impacts. The course is cross-listed in departments across all five schools and is taught by an experienced and interdisciplinary team. Desirée Plata was central to developing the Climate and Sustainability Scholars Programs and course with Associate Professor Elsa Olivetti, who taught the first semester. Olivetti is now co-teaching the second semester with Jeffrey C. Grossman, the Morton and Claire Goulder and Family Professor in Environmental Systems, head of the Department of Materials Science and Engineering, and MCSC co-director. The course’s writing instructors are Caroline Beimford and David Larson.   “I have been introduced to a lot of new angles in the climate space through the weekly guest lecturers, who each shared a different sustainability-related perspective,” says Claire Kim. “As a chemical engineering major, I have mostly looked into the technologies for decarbonization, and how to scale them, so learning about policy, for example, was helpful for me. Professor Black from the Department of History spoke about how we can analyze the effectiveness of past policy to guide future policy, while Professor Selin talked about framing different climate policies as having co-benefits. These perspectives are really useful because no matter how good a technology is, you need to convince other people to adopt it, or have strong policy in place to encourage its use, in order for it to be effective.” Bringing the industry perspective, guests have presented from MCSC member companies such as PepsiCo, Holcim, Apple, Cargill, and Boeing. As an example, in one class, climate leaders from three companies presented together on their approaches to setting climate goals, barriers to reaching them, and ways to work together. “When I presented to the class, alongside my counterparts at Apple and Boeing, the student questions pushed us to explain how can collaborate on ways to achieve our climate goals, reflecting the broader opportunity we find within the MCSC,” says Dana Boyer, sustainability manager at Cargill. Witnessing the cross-industry dynamics unfold in class was particularly engaging for the students. “The most beneficial part of the program for me is the number of guest lectures who have come in to the class, not only from MIT but also from the industry side,” Grace Harrington adds. “The diverse range of people talking about their own fields has allowed me to make connections between all my classes.”
+Bringing in perspectives from both academia and industry is a reflection of the MCSC’s larger mission of linking its corporate members with each other and with the MIT community to develop scalable climate solutions.
+“In addition to focusing on an independent research project and engaging with a peer community, we've had the opportunity to hear from speakers across the sustainability space who are also part of or closely connected to the MIT ecosystem,” says Anushree Chaudhuri. “These opportunities have helped me make connections and learn about initiatives at the Institute that are closely related to existing or planned student sustainability projects. These connections — across topics like waste management, survey best practices, and climate communications — have strengthened student projects and opened pathways for future collaborations. 
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Having a positive impact as students and after graduation At the start of the program, students identified several goals, including developing focused independent research questions, drawing connections and links with real-world challenges, strengthening their critical thinking skills, and reflecting on their future career ambitions. A common thread throughout them all: the commitment to having a meaningful impact on climate and sustainability challenges both as students now, and as working professionals after graduation.
+“I've absolutely loved connecting with like-minded peers through the program. I happened to know most of the students coming in from various other communities on campus, so it's been a really special experience for all of these people who I couldn't connect with as a cohesive cohort before to come together. Whenever we have small group discussions in class, I'm always grateful for the time to learn about the interdisciplinary research projects everyone is involved with,” concludes Chaudhuri. “I'm looking forward to staying in touch with this group going forward, since I think most of us are planning on grad school and/or careers related to climate and sustainability.” The MCSC Climate and Sustainability Scholars Program is representative of MIT’s ambitious and bold initiatives on climate and sustainability — bringing together faculty and students across MIT to collaborate with industry on developing climate and sustainability solutions in the context of undergraduate education and research. Learn about how you can get involved. 

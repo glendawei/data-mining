@@ -1,0 +1,27 @@
+
+        Printed Electrodes and Sensors Possible With Graphene Ink
+     Salad dressing—yes, salad dressing—provided the “Eureka!” moment 
+	Graphene and other two-dimensional materials have offered tantalizing promise in the field of printable electronics. Part of this appeal has been that graphene has an innate advantage of being more easily solution processed than existing electronics materials. And graphene along with other 2D materials can typically offer greater flexibility, allowing them to be deposited on textiles to enable wearable electronics.
+ 
+	While the solubility and flexibility of graphene (and other 2D materials) has opened some doors in the burgeoning field of printable electronics, challenges remain for those hoping to use them in functional inks. One of the trickiest to overcome for them—and really all printable electronic inks—is the “coffee-ring” effect. The coffee-ring effect describes the phenomenon when particles of the ink tend to flow to the edges of the droplet where the evaporation rate is highest and end up being deposited at the edges of the liquid droplet as it dries, just like the mark left by a coffee cup (hence the name).
+ 
+	Researchers at the University of Sussex in the United Kingdom have come up with a solution to this problem. Their inspiration for the solution came to them while observing the mixing of salad dressing. They realized that it might make sense to add graphene to liquid emulsions.
+ Graphene and other 2D-material “inks” could prove useful not just for printed batteries and sensors but also for phase-change materials for thermal management and charge transfer interfaces for optoelectronics. 
+	An emulsion is a combination of two liquids that normally do not mix—like oil and water. There are, of course, conventional emulsions that are mixtures of unmixable liquids that are stabilized by some amphiphilic (not quite hydrophobic, not quite hydrophilic) substance. Chemists probably already know that these amphiphilic stabilizers are often a surfactant—a small molecule with a hydrophobic end and a hydrophilic end, such as those in detergents.
+  
+	The problem with such surfactant-stabilized emulsions is that once everything’s mixed together, the resulting liquid doesn't often retain all the functional properties of the stuff that was thrown into the emulsion in the first place.
+ 
+	For instance, when researchers made a surfactant-stabilized emulsion with graphene oxide, the resulting material didn’t retain its attractive functional properties, such as electrical conductivity required for interconnects and sensing, for example. 
+	In this latest work, the Sussex researchers managed to stabilize emulsions with atomically thin films of few-layer graphene and molybdenum disulfide (MoS2) and assemble emulsions that exhibited electrical conductivity even in the liquid state.
+ 
+	“These atomically thin films are also trapped at the oil-water interface so when a droplet is deposited, the thin-but-dense-packed film is confined until the droplet collapses onto the substrate—and the film is transferred without the usual challenging drying dynamics of dispersion inks, such as the coffee-ring effect,” says Sean Ogilvie, a research fellow at the University of Sussex, lead author of this research. “We are envisaging deposition of single droplets (such as by inkjet) to assemble thin-film devices from graphene, MoS2, boron nitride, and other 2D materials on demand.”
+ 
+	The team’s new approach promises to greatly simplify the production of functional inks that often require a high degree of formulation. By contrast, these new emulsions contain no additional additives.
+ Ogilvie notes that the emulsions his group developed show promise not just for single-layer, inkjet-style printed electronics but also for more complex 3D structures through additive manufacturing techniques. The team, he says, has developed a process to disperse, emulsify, assemble networks, deposit, understand, and measure surface energy—and even prepare elastomeric composite sensors. 
+	“This technology is applicable to 3D structures both in the liquid state and cured elastomer solids,” says Ogilvie. “This could be extended to additive manufacturing with the right emulsion composition and design.”
+ 
+	While the initial devices developed with the technique are elastomeric composite sensors, the researchers are keen to see it applied to battery technologies. The researchers believe that they could encapsulate electrode materials of batteries with graphene emulsions.
+ 
+	“We believe our emulsions can contribute to the challenge of controlling the structure and properties of batteries where Li-ion electrodes require a mechanism to retain structure, conductivity, and integrity during cycling where electrode materials undergo significant expansion,” says Ogilvie.
+ 
+	Beyond batteries, the researchers believe that there is an enormous range of applications where this control over structure could prove useful, such as phase-change materials for thermal management and charge transfer interfaces for optoelectronics.  The researchers published their findings in a recent issue of the journal ACS Nano. Correction 16 March 2022: An earlier version of this story suggested that batteries could be printed with this emulsion ink technology, when more likely the nearest-term applications will involve coating battery electrodes.  

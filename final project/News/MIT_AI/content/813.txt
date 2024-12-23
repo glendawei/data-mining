@@ -1,0 +1,8 @@
+Looking ahead to the future of computer-driven cars 
+ The field of transportation is undergoing a seismic shift with the introduction of autonomous driving — or computer-driven cars. Computer vision scientist and Mobileye co-founder Amnon Shashua PhD ’93 described the challenges associated with this technology in a talk last month hosted by MIT’s Center for Brains, Minds and Machines (CBMM).
+ 
+The technology behind computer driven cars, Shashua explained, involves machine learning and the latest cutting-edge artificial intelligence algorithms in three major areas: sensing, planning, and mapping.
+ 
+Shashua earned his PhD in the Artificial Intelligence Laboratory at MIT’s Department of Brain and Cognitive Sciences in 1993. He received postdoctoral training under Professor Tomaso Poggio at MIT’s Center for Biological and Computational Learning (now CBMM) and currently holds the Sachs Chair in computer science at the Hebrew University of Jerusalem.
+ 
+In 1999, Shashua co-founded Mobileye, an Israeli technology company that makes sensors and cameras for driverless vehicles. In March, chip maker Intel purchased Mobileye for $15.3 billion — the largest-ever acquisition of an Israeli tech company. 

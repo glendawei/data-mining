@@ -1,0 +1,36 @@
+How to Calculate an Optical Power Budget for an Industrial Network Let's demystify the process of calculating an optical power budget. Industrial switches are often available with both copper and fiber ports to facilitate the cost-effective, reliable integration of fiber optic and copper-based Ethernet infrastructures in networks. To guarantee the overall integrity and functionality of a fiber link from switches, the use of optical power budgets is essential. An optical power budget refers to the quantity of light energy needed for a fiber-optic data transmission network or link to transmit signals from a transmitter power source (Tx) to a receiver (Rx) without signal distortion.
+ 
+Whether you're an experienced technician or a newcomer to the industrial networks and ethernet switches field, calculating an optical power budget can seem a daunting task. In this article, we will demystify the process by providing a step-by-step guide on how to determine a power budget. To help calculate your power budget, fiber optic equipment manufacturers provide Minimum Transmit Power and Minimum Receive Sensitivity specifications. Minimum Transmit Power indicates the amount of power the Tx will transmit in a worst-case scenario, while Minimum Receive Sensitivity represents the minimum light needed by the Rx to operate error-free, also in a worst-case scenario. Be wary of specifications provided based on averages, since there is no guarantee that the device will perform at the stated average level as an absolute minimum.
+ 
+Determining available power is the first step in establishing your optical power budget. The formula is as simple as subtracting Minimum Transmit Power from Minimum Receive Sensitivity. For instance, if your source Tx device has a Minimum Transmit Power of -15dBm and the Rx has a Minimum Receive Sensitivity of -35dBm, your available power is -15dBm - (-)35dBm = 20dB. From the moment output power is coupled into an optical fiber, the light energy is subject to losses brought on by inherent fiber properties and operating conditions. Measured in dB, this phenomenon is known in the network industry as Link Loss. Cable length, the number of connections, bends and splices in the fiber optic cable, the type of fiber installed, and whether splitters were used are all factors to consider when estimating your loss budget.
+ 
+By far, the largest contributor to loss is cable attenuation, which results in a loss of .22dB to .5dB per kilometer depending on the cable type. You can find the attenuation marked on the cable you are installing or plan to install. In general, splices to the cable will generate an additional .1dB of loss per splice, while each connector will add .75dB according to TIA standards.
+ 
+Once losses are added up, that number (loss budget) is subtracted from the available power you determined earlier. You’ll note that we calculated into the link loss formula two additional repair splices that may be needed in the future, and a Safety Margin of 3 dB to account for any unanticipated changes in temperatures, exceeding bend radii, aging of the cable and components, or end-face contamination, among other culprits.
+ 
+1. Let’s start by assuming the below cable run:
+Cable attenuation (1310nm fiber): .4 dB per kilometer
+Cable length: 2 kilometers between splices
+Splices: 4 @ .5 dB attenuation
+Connections: 2 @ .75 dB
+Repair splices: 2 @ .5 dB attenuation (recommended)
+Safety margin: 3 dB (recommended, varies on risk tolerance)
+ 
+2. Next, let’s determine the Loss Budget:
+Cable Length: 10 kilometers x .4 db = 4 dB
+Connections: 2 connections x .75 db = 1.5 dB
+Splices: 4 splices x .5 dB = 2 dB
+Repair Splices: 2 splices x .5 dB = 1 dB
+Safety Margin: 3 dB
+Loss Budget: 4 dB + 1.5 dB + 2 dB + 1 dB + 3 dB = 11.5 dB
+ 
+3. Finally, we calculate the working power budget for the cable run.
+Available Power: -15dBm - (-)35dBm = 20dB.
+Loss Budget: 11.5 dB
+Power Budget: 20 dB – 11.5 = 8.5 dB
+ 
+Having arrived at a positive redundant power supply budget of 8.5 dB you can be confident that your installed prescribed optics will have sufficient power to provide reliable, error-free communications over this fiber optic run. However, if your number is negative, light signals will be too weak resulting in poor network performance.
+ 
+The above is a simple example used only for illustration. In the real world, things are more complicated. One major factor is the use of devices from multiple manufacturers or different types of devices from select models of the same manufacturer. In this case, you will need to run the calculations in both directions, taking the Min Transmit power from the optics on one end with the Min Receive sensitivity on the other. The calculation with the lowest available power should be used in determining your power budget. Other issues you may need to consider are higher-order mode losses, and modal and chromatic dispersion in multimode fiber technology solutions.
+ 
+If calculating the link loss in this way is not possible, once the fiber is installed, a tester can determine the loss of the cable run, which is ideal. An optic power budget indicates the total acceptable amount of optical power loss that a fiber optic link can have before signal performance is compromised. Losses result from factors including attenuation, the number of connectors and splices, as well as devices such as the source and receiver in the installed system. Keep in mind that although it was not discussed here, it is possible to damage optical receivers by using too strong of a transmitter. This often is the issue when bench testing products before deploying them. Attenuators can be used to simulate longer cable runs to prevent damage. 

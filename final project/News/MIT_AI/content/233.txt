@@ -1,0 +1,83 @@
+How can we reduce the carbon footprint of global computing?  
+ The voracious appetite for energy from the world’s computers and communications technology presents a clear threat for the globe’s warming climate. That was the blunt assessment from presenters in the intensive two-day Climate Implications of Computing and Communications workshop held on March 3 and 4, hosted by MIT’s Climate and Sustainability Consortium (MCSC), MIT-IBM Watson AI Lab, and the Schwarzman College of Computing. The virtual event featured rich discussions and highlighted opportunities for collaboration among an interdisciplinary group of MIT faculty and researchers and industry leaders across multiple sectors — underscoring the power of academia and industry coming together. “If we continue with the existing trajectory of compute energy, by 2040, we are supposed to hit the world’s energy production capacity. The increase in compute energy and demand has been increasing at a much faster rate than the world energy production capacity increase,” said Bilge Yildiz, the Breene M. Kerr Professor in the MIT departments of Nuclear Science and Engineering and Materials Science and Engineering, one of the workshop’s 18 presenters. This computing energy projection draws from the Semiconductor Research Corporations’s decadal report.
+To cite just one example: Information and communications technology already account for more than 2 percent of global energy demand, which is on a par with the aviation industries emissions from fuel.
+“We are the very beginning of this data-driven world. We really need to start thinking about this and act now,” said presenter Evgeni Gousev, senior director at Qualcomm.  Innovative energy-efficiency options
+To that end, the workshop presentations explored a host of energy-efficiency options, including specialized chip design, data center architecture, better algorithms, hardware modifications, and changes in consumer behavior. Industry leaders from AMD, Ericsson, Google, IBM, iRobot, NVIDIA, Qualcomm, Tertill, Texas Instruments, and Verizon outlined their companies’ energy-saving programs, while experts from across MIT provided insight into current research that could yield more efficient computing.
+Panel topics ranged from “Custom hardware for efficient computing” to “Hardware for new architectures” to “Algorithms for efficient computing,” among others. 
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The goal, said Yildiz, is to improve energy efficiency associated with computing by more than a million-fold.
+“I think part of the answer of how we make computing much more sustainable has to do with specialized architectures that have very high level of utilization,” said Darío Gil, IBM senior vice president and director of research, who stressed that solutions should be as “elegant” as possible.  
+For example, Gil illustrated an innovative chip design that uses vertical stacking to reduce the distance data has to travel, and thus reduces energy consumption. Surprisingly, more effective use of tape — a traditional medium for primary data storage — combined with specialized hard drives (HDD), can yield a dramatic savings in carbon dioxide emissions.
+Gil and presenters Bill Dally, chief scientist and senior vice president of research of NVIDIA; Ahmad Bahai, CTO of Texas Instruments; and others zeroed in on storage. Gil compared data to a floating iceberg in which we can have fast access to the “hot data” of the smaller visible part while the “cold data,” the large underwater mass, represents data that tolerates higher latency. Think about digital photo storage, Gil said. “Honestly, are you really retrieving all of those photographs on a continuous basis?” Storage systems should provide an optimized mix of of HDD for hot data and tape for cold data based on data access patterns.
+Bahai stressed the significant energy saving gained from segmenting standby and full processing. “We need to learn how to do nothing better,” he said. Dally spoke of mimicking the way our brain wakes up from a deep sleep, “We can wake [computers] up much faster, so we don't need to keep them running in full speed.”
+Several workshop presenters spoke of a focus on “sparsity,” a matrix in which most of the elements are zero, as a way to improve efficiency in neural networks. Or as Dally said, “Never put off till tomorrow, where you could put off forever,” explaining efficiency is not “getting the most information with the fewest bits. It's doing the most with the least energy.”Holistic and multidisciplinary approaches
+“We need both efficient algorithms and efficient hardware, and sometimes we need to co-design both the algorithm and the hardware for efficient computing,” said Song Han, a panel moderator and assistant professor in the Department of Electrical Engineering and Computer Science (EECS) at MIT.
+Some presenters were optimistic about innovations already underway. According to Ericsson’s research, as much as 15 percent of the carbon emissions globally can be reduced through the use of existing solutions, noted Mats Pellbäck Scharp, head of sustainability at Ericsson. For example, GPUs are more efficient than CPUs for AI, and the progression from 3G to 5G networks boosts energy savings.
+“5G is the most energy efficient standard ever,” said Scharp. “We can build 5G without increasing energy consumption.”
+Companies such as Google are optimizing energy use at their data centers through improved design, technology, and renewable energy. "Five of our data centers around the globe are operating near or above 90 percent carbon-free energy,” said Jeff Dean, Google's senior fellow and senior vice president of Google Research.
+Yet, pointing to the possible slowdown in the doubling of transistors in an integrated circuit — or Moore’s Law — “We need new approaches to meet this compute demand,” said Sam Naffziger, AMD senior vice president, corporate fellow, and product technology architect. Naffziger spoke of addressing performance “overkill.” For example, “we’re finding in the gaming and machine learning space we can make use of lower-precision math to deliver an image that looks just as good with 16-bit computations as with 32-bit computations, and instead of legacy 32b math to train AI networks, we can use lower-energy 8b or 16b computations.” 
+
+
+
+
+
+
+
+
+
+
+
+
+Previous item
+Next item
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Other presenters singled out compute at the edge as a prime energy hog.
+“We also have to change the devices that are put in our customers’ hands,” said Heidi Hemmer, senior vice president of engineering at Verizon. As we think about how we use energy, it is common to jump to data centers — but it really starts at the device itself, and the energy that the devices use. Then, we can think about home web routers, distributed networks, the data centers, and the hubs. “The devices are actually the least energy-efficient out of that,” concluded Hemmer.
+Some presenters had different perspectives. Several called for developing dedicated silicon chipsets for efficiency. However, panel moderator Muriel Medard, the Cecil H. Green Professor in EECS, described research at MIT, Boston University, and Maynooth University on the GRAND (Guessing Random Additive Noise Decoding) chip, saying, “rather than having obsolescence of chips as the new codes come in and in different standards, you can use one chip for all codes.”
+Whatever the chip or new algorithm, Helen Greiner, CEO of Tertill (a weeding robot) and co-founder of iRobot, emphasized that to get products to market, “We have to learn to go away from wanting to get the absolute latest and greatest, the most advanced processor that usually is more expensive.” She added, “I like to say robot demos are a dime a dozen, but robot products are very infrequent.”
+Greiner emphasized consumers can play a role in pushing for more energy-efficient products — just as drivers began to demand electric cars.
+Dean also sees an environmental role for the end user.
+“We have enabled our cloud customers to select which cloud region they want to run their computation in, and they can decide how important it is that they have a low carbon footprint,” he said, also citing other interfaces that might allow consumers to decide which air flights are more efficient or what impact installing a solar panel on their home would have.
+However, Scharp said, “Prolonging the life of your smartphone or tablet is really the best climate action you can do if you want to reduce your digital carbon footprint.”Facing increasing demands
+Despite their optimism, the presenters acknowledged the world faces increasing compute demand from machine learning, AI, gaming, and especially, blockchain. Panel moderator Vivienne Sze, associate professor in EECS, noted the conundrum.
+“We can do a great job in making computing and communication really efficient. But there is this tendency that once things are very efficient, people use more of it, and this might result in an overall increase in the usage of these technologies, which will then increase our overall carbon footprint,” Sze said.
+Presenters saw great potential in academic/industry partnerships, particularly from research efforts on the academic side. “By combining these two forces together, you can really amplify the impact,” concluded Gousev.
+Presenters at the Climate Implications of Computing and Communications workshop also included: Joel Emer, professor of the practice in EECS at MIT; David Perreault, the Joseph F. and Nancy P. Keithley Professor of EECS at MIT; Jesús del Alamo, MIT Donner Professor and professor of electrical engineering in EECS at MIT; Heike Riel, IBM Fellow and head science and technology at IBM; and Takashi Ando, principal research staff member at IBM Research. The recorded workshop sessions are available on YouTube. 

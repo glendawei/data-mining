@@ -1,0 +1,49 @@
+
+        The Transistor of 2047: Expert Predictions
+     What will the device be like on its 100th anniversary?  The 100th anniversary of the invention of the transistor will happen in 2047. What will transistors be like then? Will they even be the critical computing element they are today? IEEE Spectrum asked experts from around the world for their predictions.
+ 
+		This article is part of our special report on the 
+		75th anniversary of the invention of the transistor.
+	 
+	Expect transistors to be even more varied than they are now, says one expert. Just as processors have evolved from CPUs to include GPUs, network processors, AI accelerators, and other specialized computing chips, transistors will evolve to fit a variety of purposes. “Device technology will become application domain–specific in the same way that computing architecture has become application domain–specific,” says 
+	H.-S. Philip Wong, an IEEE Fellow, professor of electrical engineering at Stanford University, and former vice president of corporate research at TSMC.
+ 
+	Despite the variety, the fundamental operating principle—the field effect that switches transistors on and off—will likely remain the same, suggests 
+	Suman Datta, an IEEE Fellow, professor of electrical and computer at Georgia Tech, and director of the multi-university nanotech research center ASCENT. This device will likely have minimum critical dimensions of 1 nanometer or less, enabling device densities of 10 trillion per square centimeter, says Tsu-Jae King Liu, an IEEE Fellow, dean of the college of engineering at the University of California, Berkeley, and a member of Intel’s board of directors.
+ 
+	“It is safe to assume that the transistor or switch architectures of 2047 have already been demonstrated on a lab scale”—Sri Samavedam
+ 
+	Experts seem to agree that the transistor of 2047 will need new materials and probably a stacked or 3D architecture, expanding on the planned complementary field-effect transistor (CFET, or 3D-stacked CMOS). [For more on the CFET, see "Taking Moore's Law to New Heights."] And the transistor channel, which now runs parallel to the plane of the silicon, may need to become vertical in order to continue to increase in density, says Datta.
+ AMD senior fellow 
+	Richard Schultz, suggests that the main aim in developing these new devices will be power. “The focus will be on reducing power and the need for advanced cooling solutions,” he says. “Significant focus on devices that work at lower voltages is required.”
+ 
+	It’s hard to imagine a world where computing is not done with transistors, but, of course, vacuum tubes were once the digital switch of choice. Startup funding for quantum computing, which does not directly rely on transistors, 
+	reached US $1.4 billion in 2021, according to McKinsey & Co.
+ 
+	 But advances in quantum computing won’t happen fast enough to challenge the transistor by 2047, experts in electron devices say. “Transistors will remain the most important computing element,” says 
+	Sayeef Salahuddin, an IEEE Fellow and professor of electrical engineering and computer science at the University of California, Berkeley. “Currently, even with an ideal quantum computer, the potential areas of application seem to be rather limited compared to classical computers.”
+ Sri Samavedam, senior vice president of CMOS technologies at the European chip R&D center Imec, agrees. “Transistors will still be very important computing elements for a majority of the general-purpose compute applications,” says Samavedam. “One cannot ignore the efficiencies realized from decades of continuous optimization of transistors.”
+ 
+	Twenty-five years is a long time, but in the world of semiconductor R&D, it’s not that long. “In this industry, it usually takes about 20 years from [demonstrating a concept] to introduction into manufacturing,” says Samavedam. “It is safe to assume that the transistor or switch architectures of 2047 have already been demonstrated on a lab scale” even if the materials involved won’t be exactly the same. King Liu, who demonstrated the modern FinFET about 25 years ago with colleagues at Berkeley, agrees.
+ 
+	But the idea that the transistor of 2047 is already sitting in a lab somewhere isn’t universally shared. Salahuddin, for one, doesn’t think it’s been invented yet. “But just like the FinFET in the 1990s, it is possible to make a reasonable prediction for the geometric structure” of future transistors, he says.
+ 
+	AMD’s Schultz says you can glimpse this structure in proposed 3D-stacked devices made of 2D semiconductors or carbon-based semiconductors. “Device materials that have not yet been invented could also be in scope in this time frame,” he adds.
+ 
+	Experts say that the heart of most devices, the transistor channel region, will still be silicon, or possibly silicon-germanium—which is already making inroads—or germanium. But in 2047 many chips may use semiconductors that are considered exotic today. These could include oxide semiconductors like indium gallium zinc oxide; 2D semiconductors, such as the metal dichalcogenide tungsten disulfide; and one-dimensional semiconductors, such as carbon nanotubes. Or even “others yet to be invented,” says Imec’s Samavedam.
+ 
+	“Transistors will remain the most important computing element”—Sayeef Salahuddin
+ 
+	Silicon-based chips may be integrated in the same package with chips that rely on newer materials, just as processor makers are today integrating chips using different silicon manufacturing technologies into the same package, notes IEEE Fellow Gabriel Loh, a senior fellow at AMD.
+ 
+	Which semiconductor material is at the heart of the device may not even be the central issue in 2047. “The choice of channel material will essentially be dictated by which material is the most compatible with many other materials that form other parts of the device,” says Salahuddin. And we know a lot about integrating materials with silicon.
+ 
+	Everywhere. No, seriously. Experts really do expect some amount of intelligence and sensing to creep into every aspect of our lives. That means devices will be attached to our bodies and implanted inside them; embedded in all kinds of infrastructure, including roads, walls, and houses; woven into our clothing; stuck to our food; swaying in the breeze in grain fields; watching just about every step in every supply chain; and doing many other things in places nobody has thought of yet.
+ 
+	Transistors will be “everywhere that needs computation, command and control, communications, data collection, storage and analysis, intelligence, sensing and actuation, interaction with humans, or an entrance portal to the virtual and mixed reality world,” sums up Stanford’s Wong. 
+	 This article appears in the December 2022 print issue as “The Transistor of 2047.” 
+            
+                The Transistor at 75
+            
+            
+        The Transistor at 75The past, present, and future of the modern world’s most important inventionHow the First Transistor WorkedEven its inventors didn’t fully understand the point-contact transistorThe Ultimate Transistor TimelineThe transistor’s amazing evolution from point contacts to quantum tunnelsThe State of the Transistor in 3 ChartsIn 75 years, it’s become tiny, mighty, ubiquitous, and just plain weird3D-Stacked CMOS Takes Moore’s Law to New HeightsWhen transistors can’t get any smaller, the only direction is upThe Transistor of 2047: Expert PredictionsWhat will the device be like on its 100th anniversary?The Future of the Transistor Is Our FutureNothing but better devices can tackle humanity’s growing challengesJohn Bardeen’s Terrific Transistorized Music BoxThis simple gadget showed off the magic of the first transistor The Transistor at 75 The past, present, and future of the modern world’s most important invention How the First Transistor Worked Even its inventors didn’t fully understand the point-contact transistor The Ultimate Transistor Timeline The transistor’s amazing evolution from point contacts to quantum tunnels The State of the Transistor in 3 Charts In 75 years, it’s become tiny, mighty, ubiquitous, and just plain weird 3D-Stacked CMOS Takes Moore’s Law to New Heights When transistors can’t get any smaller, the only direction is up The Transistor of 2047: Expert Predictions What will the device be like on its 100th anniversary? The Future of the Transistor Is Our Future Nothing but better devices can tackle humanity’s growing challenges John Bardeen’s Terrific Transistorized Music Box This simple gadget showed off the magic of the first transistor  

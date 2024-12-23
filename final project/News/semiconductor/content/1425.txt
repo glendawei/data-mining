@@ -1,0 +1,1 @@
+EPC adds 30mΩ 100V and 11mΩ 200V devices to rad-hard GaN family 

@@ -1,0 +1,4 @@
+Robot reflections 
+ The MIT Museum's latest exhibit, Robots and Beyond, explores the world of artificial intelligence, including robots from MIT's AI Lab. Hanging in the case is Hannibal, a small, six-legged robot. Below it is Pebbles, a visually guided obstacle avoidance system built to gather geological samples for the Mars Rover Project.  
+A version of this article appeared in MIT Tech Talk on November 8, 2000.
+ 

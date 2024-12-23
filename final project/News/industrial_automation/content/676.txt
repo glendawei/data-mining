@@ -1,0 +1,74 @@
+Control Valve Selection for Supercritical Carbon Dioxide Pipelines and Injection Systems A host of fast-track projects related to carbon dioxide injection are being initiated across the globe, each requiring expertise in control valve selection for these difficult applications. This feature originally appeared in AUTOMATION 2023: IIoT & Industry 4.0. Mitigating the effects of climate change by pursuing greenhouse gas (GHG) reductions has become an extremely important topic, with project numbers accelerating globally. Early efforts to lower GHG emissions were focused on methane, NOx, and various fluorinated gases due to their high GHG potential. As these sources are currently being addressed, attention is turning toward carbon dioxide (CO2) reduction due to the sheer volume of gas emitted into the atmosphere. In the United States, (CO2) makes up nearly 80% of the GHG emissions.
+ 
+Spurred by a number of government subsidies and mandates, CO2 transportation and injection/sequestration projects are being undertaken across the globe. Each of these projects will depend heavily on carefully selected control valves to safely process and transport CO2, and then inject it into suitable repositories. This article addresses a few of the more difficult challenges encountered in these applications, and it offers suggestions for choosing the right control valves for these services. Globally, GHG emissions have been steadily growing for decades, leading to an increase in the average global temperature and causing changes in global weather patterns (Figure 1). The long-term prognosis appears grim, with many climate experts and government entities sounding warnings of significant and lasting impacts if GHG emissions are not curtailed immediately.
+
+
+
+Figure 1: Atmospheric CO2 has risen 47%25 since the industrial age and 11%25 since the year 2000, increasing the average winter temperature in the United States by 3 F° since 1896. (Figure courtesy of Climate.nasa.gov)
+
+
+Like many countries, the United States has committed significant funding to address the climate issue at hand. In 2021 the Bipartisan Infrastructure law provided $62 billion dollars to fund Department of Energy investments in energy infrastructure, with $3.7 billion of that sum specifically targeted CO2 removal effort, including direct air capture; carbon capture and utilization; and carbon capture and storage.
+ 
+Direct air capture (DAC) pulls CO2 directly from the atmosphere to remove CO2 from ambient air. DAC is known as a carbon dioxide removal process as it has the ability to remove CO2 from the atmosphere, ensuring negative CO2 emissions. Utilization efforts seek to capture CO2 from emitters—and then either use the gas directly (in industries like refrigeration, the food and beverage industry, etc.)—or convert it into useful fuels, chemicals, or plastics.
+ 
+Carbon dioxide captured from man-made sources can be used as it is or injected and stored deep in subsurface geological formations. Biological sequestration is being considered, but by far the most promising storage option is injecting the gas underground into spent gas and oil fields where it will be sequestered indefinitely.
+ 
+All these options will have a role to play in CO2 emission reduction, but all are dependent on an extensive infrastructure to transport the CO2 from the sources to the users/storage sites (Figure 2). While trucks, rail cars and ships could be used, it is much safer and less expensive to transport the gas via pipeline.
+
+
+
+Figure 2: The prevailing techniques for CO2 reduction capture CO2 either from the air or from emission sources, and then transport the gas to be used in industry or stored underground.  (Figure courtesy of www.iea.org.)
+
+
+Approximately 5,000 miles of CO2 pipelines already exist in the United States, and most are used to carry CO2 to aging oil fields where the gas is injected underground to enhance oil recovery. However, achieving the country’s CO2 emission goals will require an order of magnitude expansion of that pipeline infrastructure, with one study suggesting this pipeline network must be expanded to 66,000 miles by 2050.
+ 
+These pipelines are just a small part of a burgeoning carbon capture project explosion. There are approximately 35 commercial facilities applying carbon capture and utilization projects, capturing 45 metric tons of CO2 a year according to the International Energy Agency. However, there are over 300 projects already in various stages of planning (Figure 3), with 200 facilities scheduled to begin operation by 2030.
+
+
+
+Figure 3: Most of today’s carbon capture projects operate in natural gas processing plants, but new projects target power generation, chemicals, ethanol plants, and cement production. (Figure courtesy of www.iea.org.)
+
+
+Between those facilities and the CO2 pipeline infrastructure, the processing, transport and injection of CO2 will figure heavily on upcoming project dockets. As mentioned previously, the most efficient way of transporting CO2 is via pipelines, which are commonly used for this purpose worldwide. To improve transport efficiency, the gas is compressed to high pressures and temperatures to reduce its volume.
+ 
+CO2 has a low critical temperature and pressure, often exceeded by typical pipeline conditions (Figure 4). When the gas is compressed above its critical point (about 88 F° and 1070 PSIG), it transitions from a vapor to a supercritical fluid.
+ 
+
+
+Figure 4: Above the critical point at 1070 PSI (73.8 bar) and 87.8 F° (31.3 C°), CO2 is no longer a liquid or a gas, but becomes a compressible dense phase fluid with the properties of both a liquid and a gas.
+
+
+In a supercritical fluid state, CO2 has the density of a liquid but the viscosity of a gas, so it transports very efficiently in pipelines, with much reduced pressure loss, but CO2 transport has its challenges as well. Even trace amounts of water in the gas will create carbonic acid, which attacks the piping. Water can also form hydrates, similar to ice crystals, when pressure is reduced, impeding flow and creating plugging problems.
+ 
+One other potential issue is a phenomenon called explosive decompression, affecting control valve elastomers. This can occur when the fluid experiences a large pressure drop, creating a phase change from supercritical to vapor. This lowers the density of CO2, and if this low-density CO2 is entrained inside of an elastomer, it can blow the material apart.
+ 
+Carbon sequestration through underground injection encounters all the same issues as pipelines, but adds the potential of two-phase, and even three-phase, flow to the mix. Depending on the injection pressure, the CO2 could be a supercritical fluid, a liquid, a vapor, or even a solid—creating a host of control valve challenges. Control valves in pressurized CO2 must be carefully sized and selected to provide reliable and dependable service. Unfortunately, standard flow and sizing calculations do not work in supercritical regimes, so specialty sizing and modeling programs are required for this service. This takes critical thought and specialized knowledge, so consulting with a control valve expert is often needed.
+ 
+Another challenge involves multiple phases and phase changes as the CO2 moves through the valve. Predicting two-phase flow capacity also requires specialty models and calculations, which may not be available. Finding a vendor with a history of successful applications in very high-pressure CO2, and a knowledge of sizing and selecting equipment for supercritical and/or multiphase flow, is therefore a critical first step in valve selection.
+ 
+The next big challenge for valve specification is material selection. Even trace amounts of water in CO2 can have a large impact on the material type decision, so it is very important to fully understand what else is present with the CO2 during normal, and particularly upset, conditions.
+ 
+Elastomer and seal material selection can also be difficult. Supercritical CO2 is a very strong solvent which readily penetrates certain elastomers at high pressure. When the pressure is released, the entrained gas can instantly vaporize, destroying the seal.
+ 
+To avoid this problem, packing and body seal materials must be carefully considered, with alternative solutions evaluated depending on the type of valve that is required for the service.  Elastomeric materials with explosive decompression resistance can be procured when required, but typically non-elastomeric materials are chosen for the service. Beyond the difficulties of sizing and material selection, dense phase CO2 applications obviously require the ability to handle very high pressures, and ideally offer little or no pressure drop when wide open (Figure 5). For this reason, full ported throttling ball valves are commonly used.
+
+
+
+Figure 5: A 900-pound full-bore throttling valve (Fisher™V280 shown) is commonly used in CO2 pipeline applications. Attenuators for liquid and vapor service may be required for applications with high pressure drops.
+
+When the valve is exposed to high pressure drop applications, it will often require an attenuator designed for either liquid or vapor applications, depending on the service, so this should be considered in the valve selection process.
+ 
+Pipeline and CO2 injection applications will invariably involve a multitude of compressors. During low flow conditions, these compressors can encounter a catastrophic condition called surge, where the vapor at the outlet instantly reverses flow through the compression stages and then slams forward moments later. It only takes a few surge cycles to destroy a compressor and take it out of commission for an extended time.
+ 
+To avoid this condition, anti-surge valves (Figure 6) are installed to instantly bypass the outlet flow back to the compressor inlet and establish enough flow to protect the equipment. The valves must move very quickly and very precisely to provide instantaneous and stable response.
+
+
+
+Figure 6: The heart of any compressor system is the anti-surge control valve (Fisher™ easy-e™ EW shown), which must respond instantly to avoid severe equipment damage during surge events.
+
+All the difficulties of material selection and elastomer design apply to anti-surge valves as well, but there are additional challenges in specifying related valve components for this service. Anti-surge valves are usually very large and require specialized actuators and positioner components to provide extremely fast and accurate response. Trim selection is also difficult because it must be specified to handle the very high pressure drop and high flow conditions typically encountered in this service. While knowledge of LNG and pressurized natural gas applications is commonplace, the number of experts in CO2 pipeline and injection applications is much more limited, but they do exist. As a multitude of high-pressure CO2 transport and sequestration projects get started, a key component to success will be partnering with a valve vendor that has successfully worked with these applications. These types of vendors will have the expertise and experience required to help end users choose the right valve design, trim and material of components to handle the operating conditions.
+ 
+The first step in the process is to understand the normal and potential upset conditions the valves could encounter and to then partner with a knowledgeable vendor to evaluate the multitude of body design, trim and material of construction options. The effort will not be trivial, but the long-term reliability, safety and cost savings that result will justify the endeavor.
+ 
+Figures all courtesy of Emerson
+This feature originally appeared in AUTOMATION 2023: IIoT & Industry 4.0. 

@@ -1,0 +1,23 @@
+Paper Mill to Improve Cogeneration Efficiency with Digitalization DS Smith asks ABB to deliver its ABB Ability OPTIMAX Steam and Energy Optimization software to its paper mill in the Tuscany region of Italy. ABB’s Steam and Energy Optimization solution helps lower natural gas consumption and CO2 emissions by 4%.
+
+In late 2022, ABB signed a deal with DS Smith, known for its sustainable packaging products, to deliver an advanced digital solution to optimize steam and power generation, reducing fuel usage and carbon emissions at its paper mill in Porcari, Lucca, Italy.
+
+The mill, located in the Tuscany region, is a key production hub where DS Smith manufactures a range of packaging solutions, serving food, e-commerce, retail and industrial sectors. The plant operates two paper machines, as well as a state-of-the-art new machine currently under construction and one cogeneration plant, providing thermal and electrical energy to the paper mill and the national grid.
+
+This initiative aligns with ABB's focus on the energy transition and emphasizes the role of digital solutions in reducing environmental impact.
+
+“The 4% reduction in gas consumption and resulting emissions fulfils ABB's goal of contributing to sustainability,” said Sergio Durando, manager of ABB’s Energy Industries business in Italy, Greece, Turkey and Algeria.
+
+As part of the six-month project, ABB implemented its ABB Ability OPTIMAX Steam and Energy Optimization software solution. “ABB’s digital solutions use sophisticated plant models to better manage the Cogeneration plant operations, helping us to achieve our sustainability targets while increasing profitability,” said Fabrizio Sodini, power plant manager at DS Smith.
+
+The solution has reduced the overall natural gas consumption for the DS Smith 100 MW Cogeneration plant by four percent, with a reduction in its carbon footprint of about 13,000 t/year.
+
+Additionally, ABB Ability Optimax greatly improves the ability to follow a power export plan negotiated with the energy market, with an error reduction of about 90% compared to previous operational standards.
+
+Overall, the solution has shown a significant cost reduction, thanks to lower natural gas costs and lower CO2 costs. This project demonstrates ABB's expertise in providing solutions that improve a customer's financial performance while contributing to their environmental goals.
+
+The project highlights ABB's long history of working with DS Smith, dating back to the installation of ABB drives, special permanent magnet motors and automation systems for paper machine 2 at the mill in 2011. Moreover, the long-standing cooperation at the cogeneration plant, dating back to the early 1990s, facilitated the introduction of ABB’s energy-saving solutions like Optimax. Since this commissioning, ABB has also been chosen to install a new sectional drives system with high-efficiency drives and motors for the customer’s new recycled containerboard line on paper machine 3, currently under construction.
+
+The success of this project also showcases the close collaboration between ABB’s Process Industries and Energy Industries Italian teams, signifying a unified dedication to fostering operational excellence through advanced automation and digital solutions.
+
+“This relationship extends to the forthcoming paper machine 3 which will help the Porcari mill become an exemplary model of energy efficiency,” said Mauro Martis, manager of ABB’s Process Industries business in Italy. 

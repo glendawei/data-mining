@@ -1,0 +1,53 @@
+Sensor Technology for Machine Health Monitoring A comparison of piezoelectric and MEMS technology for early detection of bearing faults. This feature originally appeared in AUTOMATION 2023: IIoT & Industry 4.0. In an industrial era marked by interconnectivity and seamless data-sharing between devices, the preventive maintenance sector is now strongly trending toward accelerometers with capabilities such as wireless transmission, digital outputs like IO-Link, and edge processing of data at the sensor level. But even as advances are made in how data is output, the most trusted sensing technologies for machine health monitoring remain the same; they are either piezoelectric or capacitive micro-electro-mechanical systems (MEMS).
+
+This article explores these two leading sensor types and evaluates their performances at frequencies associated with common faults. We find that piezoelectric sensors outperform MEMS accelerometers in terms of frequency range for early detection, making them the preferred option for machine health monitoring applications. In the realm of consumer electronics, MEMS accelerometers have earned their popularity due to their low production costs and ability to measure frequencies down to 0 Hz. However, when it comes to machine health monitoring, the requirements change drastically. The low-frequency vibration range detectable with MEMS devices are typically associated with the late stages of rolling-element bearing failure, while wider range capabilities become critical to catching early fault warnings. Consequently, relying solely on MEMS accelerometers for machine health monitoring could lead to delayed detection and significant damage to the equipment. To ensure the earliest detection of potential issues and prevent catastrophic failures, piezoelectric sensors prove to be the superior choice (Figure 1).
+
+
+
+Figure 1: Comparison of piezoelectric sensors with MEMS to detect failures. This graph shows normal operation.
+
+
+To visualize the importance of broad frequency range capabilities, consider the vibration frequencies associated with the four stages of bearing failure.
+
+During the preliminary stages of bearing failure, the first signs of deterioration begin to emerge. This stage (Figure 2) is characterized by metal-to-metal impacts most commonly caused by lack of lubrication. Bearing-generated fault energy begins as ultrasonic frequencies from about 1,200 K to 3,600 K (machine rotation) cycles-per-minute (CPM) (20 kHz to 60 kHz), typically detectable only with spike energy or shock pulse instrumentation. Piezo-based accelerometers begin to detect the early onset of microscopic cracks or pitting at the lower end of the high frequency range. Assessing lubrication conditions or alignment at this early phase can prevent significant issues. However, without intervention, the damage progresses, leading to the next stage of failure.
+
+
+
+Figure 2: Vibration frequencies associated with Stage 1 of bearing failure.
+
+
+In the second stage of failure (Figure 3), the damage from the preliminary stage begins to manifest more noticeably. Minor defects excite a resonance response of the accelerometer assembly, which is picked up with a spectrum analyzer in the middle of the spectrum as frequencies of about 120 K to 480 K CPM (2 kHz to 8 kHz). The deterioration becomes visible on the bearing surface, and the wear or damage may start affecting the overall life of the bearing.
+
+At this stage, the bearing may start exhibiting increased noise, vibration, and sometimes increased temperature. It is likely that the bearing will need to be replaced, and associated machine shutdown times may lead to loss of productivity. Nonetheless, it is crucial to detect and address the issues early in this stage to prevent further deterioration and potential equipment failure.
+
+
+
+Figure 3: In Stage II failure, minor defects excite a resonance response of the accelerometer assembly, which is picked up with a spectrum analyzer in the middle of the spectrum as frequencies of about 120 K to 480 K CPM (2 kHz to 8 kHz).
+
+
+As bearing failure progresses to the third stage (Figure 4), the damage becomes severe, and the bearing’s performance significantly declines. Increased vibration and elevated operating temperatures are common indicators of this advanced stage. Sideband frequencies may also be present above and below the defect frequencies. Critical machines should undergo additional vibration analysis to assess for damage. If the bearing reaches this stage without intervention, the risk of catastrophic failure and associated machinery breakdown is significant.
+
+
+
+Figure 4: As bearing failure progresses to Stage III, the damage becomes severe, and the bearing’s performance significantly declines.
+
+
+The catastrophic fourth phase (Figure 5) is the final and most severe stage of bearing failure. At this point, the bearing experiences a complete breakdown, rendering it unable to support the load or operate effectively. Bearing fault derived frequencies will now be evident in the low frequency domain below 5 kHz. Catastrophic failure can result in collateral damage to surrounding machinery, extensive downtime, and costly repairs. This stage is characterized by complete bearing seizure, fragmentation, or total loss of functionality.
+
+
+
+Figure 5: The catastrophic Stage IV is the final and most severe stage of bearing failure. At this point, the bearing experiences a complete breakdown.
+
+
+Essentially, the detection of higher frequencies could mean the difference between simple preventive maintenance and costly repair. Unlike MEMS devices, piezoelectric accelerometers accurately measure vibrations across a wide frequency range, including the high-frequency region. This capability is invaluable for machine health monitoring applications, as it enables the detection of subtle anomalies and vibrations at the earliest stages of equipment deterioration. Machine health monitoring aims to identify potential issues and failures before they escalate into catastrophic events. By using piezoelectric sensors (Figure 6), engineers and technicians can detect and analyze vibrations across a wide range, encompassing both low and high frequencies. This versatility makes piezoelectric sensors ideal for a variety of machine health monitoring applications, including rotating machinery, industrial equipment, and structural health monitoring. The ability to detect subtle vibrations at an early stage empowers maintenance teams to take prompt action, preventing costly breakdowns and minimizing downtime.
+
+
+
+Figure 6: The broad frequency range of piezoelectric sensors allows for earlier fault detection compared to MEMS sensors, enabling technicians to take corrective action well before failure is imminent.
+
+
+In addition to their wide frequency range, piezoelectric sensors offer exceptional reliability and accuracy, providing a comprehensive view of the equipment’s health. With reliable and precise data, maintenance professionals can make informed decisions, optimize maintenance schedules, and prevent costly unplanned downtime.
+
+All images courtesy of PCB Piezotronics Inc.
+
+This feature originally appeared in AUTOMATION 2023: IIoT & Industry 4.0. 

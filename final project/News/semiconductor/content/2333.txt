@@ -1,0 +1,1 @@
+EPC introduces 350V GaN power transistor with 80mΩ RDS(on) and 26A peak current 
